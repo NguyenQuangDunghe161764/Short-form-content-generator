@@ -7,3 +7,5 @@ python-dotenv==1.0.1
 pytest==8.3.4
 mutagen==1.47.0
 argcomplete
+google-api-python-client==2.151.0
+google-auth==2.36.0

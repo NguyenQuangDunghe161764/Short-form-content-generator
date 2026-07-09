@@ -424,6 +424,7 @@ def run_slideshow_with_render(
     image_provider: str | None = None,
 ) -> tuple[dict[str, Any], Path]:
     """Run slideshow generation then Remotion export → final.mp4 in output_dir."""
+    from core.publish_runner import publish_video
     from core.remotion_render_stage import render_project_video
     from core.slideshow_pipeline import run_slideshow_pipeline
 
@@ -437,6 +438,7 @@ def run_slideshow_with_render(
     )
     payload_path = out / "pipeline_payload.json"
     final = render_project_video(payload_path, out / "final.mp4")
+    publish_video(final, payload_path=payload_path)
     payload = json.loads(payload_path.read_text(encoding="utf-8"))
     return payload, final
 
@@ -447,12 +449,14 @@ def run_mvp_with_render(
     output_dir: str | Path,
 ) -> tuple[dict[str, Any], Path]:
     """Run MVP generation then Remotion export → final.mp4 in output_dir."""
+    from core.publish_runner import publish_video
     from core.remotion_render_stage import render_project_video
 
     out = Path(output_dir)
     run_mvp_pipeline(topic_prompt, output_dir=out)
     payload_path = out / "pipeline_payload.json"
     final = render_project_video(payload_path, out / "final.mp4")
+    publish_video(final, payload_path=payload_path)
     payload = json.loads(payload_path.read_text(encoding="utf-8"))
     return payload, final
 

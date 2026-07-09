@@ -46,6 +46,24 @@ def test_publish_video_success(tmp_path: Path) -> None:
     assert publish_video(video, platforms=["facebook"]) is True
 
 
+def test_publish_video_auto_uses_drive_when_configured(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    monkeypatch.delenv("PUBLISH_PLATFORMS", raising=False)
+    monkeypatch.setenv("GOOGLE_DRIVE_CREDENTIALS_JSON", "{}")
+    monkeypatch.setenv("GOOGLE_DRIVE_FOLDER_ID", "folder-123")
+
+    video = tmp_path / "final.mp4"
+    video.write_bytes(b"mp4")
+
+    mock_drive = MagicMock(return_value={"ok": True})
+    with patch("core.publish_runner.ADAPTERS", {"drive": mock_drive}):
+        assert publish_video(video) is True
+
+    mock_drive.assert_called_once()
+
+
 @patch("core.publish_runner.ADAPTERS")
 def test_publish_video_failure_returns_false(
     mock_adapters: MagicMock,

@@ -6,11 +6,12 @@ import os
 from pathlib import Path
 from typing import Any
 
-from core.publish import facebook, telegram
+from core.publish import drive, facebook, telegram
 
 ADAPTERS: dict[str, Callable[..., dict[str, Any] | None]] = {
     "facebook": facebook.deliver_video,
     "telegram": telegram.deliver_video,
+    "drive": drive.deliver_video,
 }
 
 
@@ -30,10 +31,17 @@ def parse_platform_list(raw: str | None) -> list[str]:
 
 
 def get_enabled_platforms(*, cli_override: str | None = None) -> list[str]:
-    """Return platform names from CLI override or PUBLISH_PLATFORMS env."""
+    """Return platform names from CLI override, env override, or auto-detect Drive."""
     if cli_override is not None:
         return parse_platform_list(cli_override)
-    return parse_platform_list(os.environ.get("PUBLISH_PLATFORMS", ""))
+
+    raw = os.environ.get("PUBLISH_PLATFORMS", "").strip()
+    if raw:
+        return parse_platform_list(raw)
+
+    if drive.load_config_from_env() is not None:
+        return ["drive"]
+    return []
 
 
 def deliver_to_platforms(
