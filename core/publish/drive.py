@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from core.publish.common import PublishError, assert_video_exists, resolve_publish_metadata
+from core.publish.common import PublishError, assert_video_exists
 
 
 @dataclass(frozen=True)
@@ -58,14 +58,32 @@ def _resolve_upload_caption(
     if caption is not None:
         return caption.strip() or None
 
-    publish = resolve_publish_metadata(video_path, payload_path=payload_path)
-    if publish is None:
+    if payload_path is None:
         return None
 
-    title = str(publish.get("title", "")).strip()
-    description = str(publish.get("description", "")).strip()
-    parts = [part for part in (title, description) if part]
-    return "\n\n".join(parts) if parts else None
+    path = Path(payload_path)
+    if not path.is_file():
+        return None
+
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+    if not isinstance(payload, dict):
+        return None
+
+    publish = payload.get("publish")
+    if isinstance(publish, dict):
+        topic = publish.get("topic")
+        if isinstance(topic, str) and topic.strip():
+            return topic.strip()
+
+    topic = payload.get("topic")
+    if isinstance(topic, str) and topic.strip():
+        return topic.strip()
+
+    return None
 
 
 def deliver_video(
