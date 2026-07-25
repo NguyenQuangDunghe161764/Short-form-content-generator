@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người kiếm tiền bằng trí tuệ đầu óc nhảy số cực nhanh",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T10:58:40+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 467,
+      "output_tokens": 120,
+      "total_tokens": 587
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T10:59:01+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 540,
+      "output_tokens": 120,
+      "total_tokens": 660
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T10:59:26+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 538,
+      "output_tokens": 120,
+      "total_tokens": 658
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T10:59:47+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 552,
+      "output_tokens": 120,
+      "total_tokens": 672
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2097,
+    "output_tokens": 480,
+    "total_tokens": 2577
+  }
+}

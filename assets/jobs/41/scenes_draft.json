@@ -1,0 +1,62 @@
+{
+  "topic": "Bạn có hợp khởi nghiệp tự làm chủ? Hãy nhìn vào đặc điểm này trên gương mặt",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tự chủ vận mệnh: Dấu ấn trên gương mặt",
+      "visual_concept": "Một người trẻ tuổi, ánh mắt kiên định, đang nhìn vào tấm gương đồng phản chiếu hình ảnh của chính mình. Phía sau lưng là khung cảnh bình minh đang ló dạng, tượng trưng cho một khởi đầu mới và tiềm năng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/41/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Thần khí vững vàng: Nền tảng của tự chủ",
+      "description": "Trong nhân tướng, thần khí là tổng hòa của tinh thần và năng lượng bên trong. Một người có thần khí mạnh mẽ, ánh mắt sáng và tinh anh thường có ý chí kiên cường, không dễ nản lòng trước sóng gió. Đây là phẩm chất then chốt của người làm chủ.",
+      "tts": "Thần khí vững vàng là nền tảng của tự chủ... Đó là tổng hòa tinh thần và năng lượng bên trong... Người có thần khí mạnh mẽ, ánh mắt sáng tinh anh, thường sở hữu ý chí kiên cường, không dễ nản lòng trước sóng gió.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/41/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Vầng trán cao rộng: Tầm nhìn và trí tuệ",
+      "description": "Vầng trán được ví như 'cung quan lộc' và 'cung phúc đức'. Một vầng trán cao rộng, đầy đặn thường cho thấy người có tư duy nhạy bén, tầm nhìn xa trông rộng và khả năng hoạch định chiến lược. Họ dễ dàng nhìn thấy cơ hội và định hướng con đường riêng.",
+      "tts": "Kế đến là vầng trán cao rộng, đầy đặn... trong nhân tướng học thường biểu thị trí tuệ sắc bén, tầm nhìn xa trông rộng... Người này có khả năng hoạch định chiến lược, dễ dàng định hướng con đường riêng mình.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/41/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Cằm vững chãi: Ý chí và sự kiên cường",
+      "description": "Cằm trong nhân tướng học đại diện cho ý chí, sự kiên trì và khả năng chịu đựng khó khăn. Người có cằm đầy đặn, quai hàm rõ nét thường có lập trường vững vàng, không ngại đối mặt với thử thách và có khả năng xây dựng sự nghiệp bền vững.",
+      "tts": "Và cuối cùng, cằm vững chãi... đại diện cho ý chí kiên trì, khả năng chịu đựng khó khăn... Người có cằm đầy đặn, quai hàm rõ nét thường có lập trường vững vàng, bền bỉ xây dựng sự nghiệp vững chắc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/41/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có tố chất khởi nghiệp tự làm chủ không?",
+    "description": "Khám phá những dấu hiệu trên gương mặt có thể hé lộ tiềm năng của bạn trong việc tự mình làm chủ sự nghiệp. Nhân tướng học không phải là định mệnh, mà là một lăng kính để hiểu rõ hơn về bản thân và phát huy nội lực. Liệu bạn có những đặc điểm này?",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#khoinghiep",
+      "#tulamchu",
+      "#phattrienbanthan",
+      "#trietly"
+    ]
+  }
+}

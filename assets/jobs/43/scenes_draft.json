@@ -1,0 +1,62 @@
+{
+  "topic": "Lý do vì sao người có nét tướng này đi làm ăn xa dễ thành công hơn ở quê nhà",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Đất lành chim đậu: Nẻo về hay nẻo đi?",
+      "visual_concept": "Con đường trải dài hút tầm mắt về phía chân trời, một cánh chim đại bàng sải cánh bay vút, biểu tượng cho khát vọng vươn xa và tìm kiếm chân trời mới.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/43/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Khát vọng ẩn tàng, chí hướng vươn xa",
+      "description": "Một số nét tướng cho thấy nội tâm mạnh mẽ, không cam chịu bó hẹp trong khuôn khổ cũ. Họ mang trong mình dòng máu của người tiên phong, luôn muốn khám phá, thử thách bản thân ở những chân trời mới mẻ. Nơi đất lạ có thể khơi dậy tiềm năng lớn hơn.",
+      "tts": "Có những người mang trong mình khát vọng ẩn tàng... một chí hướng muốn vươn xa khỏi những khuôn khổ quen thuộc. Họ khao khát khám phá, tìm thấy tiềm năng ở những chân trời mới mẻ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/43/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Chuyển mình thích nghi, hóa giải khó khăn",
+      "description": "Người mang tướng này thường có khả năng thích nghi tốt với môi trường mới. Họ không ngại đối mặt với thử thách, xem đó là cơ hội để rèn giũa ý chí và bản lĩnh. Môi trường xa lạ càng giúp họ bộc lộ khả năng ứng biến, tự lực cánh sinh.",
+      "tts": "Và chính khi đặt chân đến nơi đất lạ, bản năng thích nghi của họ càng được bộc lộ. Thử thách không làm họ nao núng, mà là cơ hội để rèn giũa ý chí, bản lĩnh tự lực cánh sinh.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/43/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Thiên thời địa lợi, nơi chốn dụng võ",
+      "description": "Ở quê nhà, đôi khi tài năng bị hạn chế bởi mối quan hệ, truyền thống. Khi đi xa, họ có cơ hội tìm thấy môi trường phù hợp hơn với sở trường, ít cạnh tranh hơn, hoặc mở ra những cánh cửa mới. Đó là nơi họ có thể phát huy tối đa năng lực.",
+      "tts": "Bởi đôi khi, ở quê nhà, tài năng lại bị giới hạn bởi mối quan hệ hay truyền thống. Đi xa... chính là tìm thấy thiên thời địa lợi, một nơi chốn phù hợp để họ dụng võ, phát huy tối đa năng lực.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/43/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Vì sao có người đi xa mới thành công?",
+    "description": "Bạn có bao giờ tự hỏi vì sao có những người phải rời xa quê hương mới tìm thấy thành công rực rỡ? Nhân tướng học gợi mở về những nét tính cách, bản lĩnh giúp họ bứt phá ở môi trường mới. Đôi khi, một bước đi xa lại là khởi đầu cho hành trình vĩ đại.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#trietlycuocsong",
+      "#thanhcong",
+      "#hanhtrinh",
+      "#fyp"
+    ]
+  }
+}

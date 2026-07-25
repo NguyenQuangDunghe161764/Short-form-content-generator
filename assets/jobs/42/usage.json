@@ -1,0 +1,59 @@
+{
+  "topic": "Đặc điểm của người có khả năng quản lý đội nhóm giỏi quy tụ nhân tài",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:10:29+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 489,
+      "output_tokens": 120,
+      "total_tokens": 609
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:10:51+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 539,
+      "output_tokens": 120,
+      "total_tokens": 659
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:11:16+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 538,
+      "output_tokens": 120,
+      "total_tokens": 658
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:11:42+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 548,
+      "output_tokens": 120,
+      "total_tokens": 668
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2114,
+    "output_tokens": 480,
+    "total_tokens": 2594
+  }
+}

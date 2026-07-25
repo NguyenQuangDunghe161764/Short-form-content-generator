@@ -1,0 +1,59 @@
+{
+  "topic": "Nhìn bộ vị này biết ngay người sinh ra để làm sếp lãnh đạo thiên bẩm",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:00:41+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 507,
+      "output_tokens": 120,
+      "total_tokens": 627
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:01:08+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 547,
+      "output_tokens": 120,
+      "total_tokens": 667
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:01:38+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 559,
+      "output_tokens": 120,
+      "total_tokens": 679
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:02:00+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 549,
+      "output_tokens": 120,
+      "total_tokens": 669
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2162,
+    "output_tokens": 480,
+    "total_tokens": 2642
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "Đặc điểm của người có khả năng quản lý đội nhóm giỏi quy tụ nhân tài",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tướng Lãnh Đạo: Nơi Hội Tụ Nhân Tài",
+      "visual_concept": "Một vị tướng quân cổ xưa đứng trên đỉnh núi, nhìn xuống thung lũng nơi binh lính đang tập luyện. Ánh mắt kiên định, toát lên khí chất lãnh đạo bẩm sinh và trí tuệ. Khung cảnh hùng vĩ, bao la, thể hiện tầm nhìn xa trông rộng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/42/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm Sáng, Trí Sâu: Gốc Rễ Của Người Dẫn Dắt",
+      "description": "Người có khả năng quy tụ nhân tài trước hết phải có nội lực. Đó là tấm lòng bao dung, biết trọng dụng người hiền, và trí tuệ thấu đáo để nhìn nhận giá trị tiềm ẩn. Họ không chỉ dẫn đường mà còn soi sáng con đường cho người khác.",
+      "tts": "Người dẫn dắt quy tụ nhân tài... trước hết phải có nội lực. Đó là tấm lòng bao dung, trọng dụng người hiền... cùng trí tuệ sâu sắc để thấu hiểu giá trị tiềm ẩn. Họ không chỉ dẫn lối... mà còn soi sáng con đường.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/42/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí Chất An Định: Thu Hút Người Hiền Tài",
+      "description": "Khí chất an định, sự điềm tĩnh trước sóng gió giúp người lãnh đạo giữ vững niềm tin. Họ tạo ra môi trường nơi mọi người cảm thấy an toàn để phát triển, được lắng nghe và tin tưởng. Chính sự chân thành và nhất quán này là nam châm thu hút nhân tài.",
+      "tts": "Khí chất an định... sự điềm tĩnh trước mọi sóng gió... giúp người lãnh đạo giữ vững niềm tin. Họ tạo ra môi trường an toàn... nơi mọi người được lắng nghe và tin tưởng. Chính sự chân thành, nhất quán này... là nam châm thu hút hiền tài.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/42/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tầm Nhìn Xa, Đạo Đức Vững: Xây Dựng Đội Ngũ Vững Mạnh",
+      "description": "Một đội ngũ vững mạnh được xây dựng không chỉ bằng tài năng mà còn bằng sự đồng lòng. Người lãnh đạo giỏi nhìn xa trông rộng, đặt lợi ích chung lên trên hết, và dùng đạo đức làm kim chỉ nam. Họ truyền cảm hứng để mỗi thành viên trở thành phiên bản tốt nhất của chính mình.",
+      "tts": "Một đội ngũ vững mạnh... được xây dựng không chỉ bằng tài năng... mà còn bằng sự đồng lòng. Người lãnh đạo giỏi cần tầm nhìn xa trông rộng... đặt lợi ích chung lên trên hết... và lấy đạo đức làm kim chỉ nam. Họ truyền cảm hứng... để mỗi thành viên trở thành phiên bản tốt nhất.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/42/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bí quyết lãnh đạo: Thu phục nhân tâm, quy tụ nhân tài",
+    "description": "Bạn có bao giờ tự hỏi điều gì làm nên một người lãnh đạo xuất chúng, có thể quy tụ và giữ chân những nhân tài kiệt xuất? Nhân tướng học hé lộ những đặc điểm sâu sắc từ tâm hồn đến khí chất, giúp họ truyền cảm hứng và xây dựng đội nhóm vững mạnh. Cùng khám phá những nét tướng quý giá này.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#lanhdao",
+      "#quantri",
+      "#hieunguoi",
+      "#phattrienbanthan"
+    ]
+  }
+}

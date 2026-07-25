@@ -1,0 +1,62 @@
+{
+  "topic": "Kiểu người có nét tướng này càng áp lực lại càng bứt phá thành công rực rỡ",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Áp lực: Thử thách hay Bệ phóng?",
+      "visual_concept": "Đỉnh núi cao vời vợi bị bão tố bao trùm, nhưng từ khe nứt đá, một cây tùng vươn mình mạnh mẽ, xanh tươi. Ánh sáng le lói xuyên qua mây mù, tượng trưng cho sức sống kiên cường.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/38/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Khó khăn mài giũa ý chí",
+      "description": "Trong cuộc đời, ai cũng đối mặt với sóng gió. Nhưng có những người, càng gặp thử thách lớn, nội lực càng trỗi dậy mạnh mẽ. Họ không né tránh, mà xem áp lực là chất xúc tác để khám phá giới hạn của bản thân.",
+      "tts": "Cuộc đời vốn dĩ là một hành trình đầy sóng gió... Nhưng có những tâm hồn, càng đối diện thử thách lớn, nội lực bên trong lại càng trỗi dậy mạnh mẽ. Họ xem áp lực là chất xúc tác để khám phá giới hạn của bản thân.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/38/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Tướng biểu lộ khí chất kiên cường",
+      "description": "Một số nét tướng, như vầng trán cao rộng, ánh mắt có thần, hay xương gò má nổi rõ, thường biểu lộ khí chất kiên cường. Những người này mang trong mình nguồn năng lượng dồi dào, sẵn sàng đối mặt và vượt qua mọi trở ngại. Họ coi trọng sự nghiệp, đặt ra mục tiêu cao và không ngừng phấn đấu.",
+      "tts": "Nhân tướng học cho rằng... một số nét tướng như trán cao rộng, ánh mắt có thần, hay gò má nổi rõ... thường biểu lộ khí chất kiên cường. Họ mang trong mình năng lượng dồi dào... sẵn sàng vượt qua mọi trở ngại.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/38/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm vững vàng, tướng chuyển mình",
+      "description": "Nhân tướng học nhắc nhở rằng, 'tướng do tâm sinh'. Nét tướng chỉ là biểu hiện bên ngoài của nội tâm. Dù có nét tướng nào, chỉ cần giữ tâm vững vàng, không ngừng học hỏi và hành động, ta đều có thể bứt phá mọi giới hạn.",
+      "tts": "Tuy nhiên, Nhân tướng học cũng nhắc nhở rằng... 'tướng do tâm sinh'. Nét tướng chỉ là biểu hiện bên ngoài của nội tâm. Dù có nét tướng nào... chỉ cần giữ tâm vững vàng, không ngừng học hỏi và hành động... ta đều có thể bứt phá mọi giới hạn.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/38/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Kiểu người càng áp lực càng bứt phá?",
+    "description": "Bạn có từng thấy ai đó càng gặp khó khăn lại càng mạnh mẽ hơn không? Nhân tướng học có thể cho ta vài gợi ý về những nét tướng biểu lộ nội lực kiên cường. Nhưng hãy nhớ, tướng do tâm sinh, và mỗi người đều có thể rèn luyện ý chí để vượt qua mọi thử thách.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#kienthuctonghop",
+      "#phattrienbanthan",
+      "#trietlycuocsong",
+      "#vuotquaapluc"
+    ]
+  }
+}

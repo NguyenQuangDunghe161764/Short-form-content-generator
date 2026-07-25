@@ -1,0 +1,62 @@
+{
+  "topic": "Người làm việc lớn thật sự thường không thích phô trương qua nét tướng này",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Bậc đại nhân, ẩn mình trong tướng mạo",
+      "visual_concept": "Một vị hiền triết, trang phục giản dị, ngồi tĩnh tâm trong không gian thư phòng cổ kính. Ánh sáng dịu nhẹ chiếu qua cửa sổ, làm nổi bật vẻ điềm đạm, uyên thâm trên gương mặt.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/45/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Cái tĩnh lặng của người có tầm",
+      "description": "Trong thế giới ồn ào, những người làm việc lớn thường chọn sự trầm tĩnh. Họ không cần phô bày quyền lực hay sự vĩ đại. Bởi lẽ, sức mạnh thật sự toát ra từ nội tâm, không phải từ vẻ ngoài hào nhoáng.",
+      "tts": "Giữa dòng đời vạn biến, người có tầm thường chọn cho mình sự tĩnh lặng... Họ không cần phô bày quyền lực hay sự vĩ đại... bởi lẽ, sức mạnh chân thực, vốn dĩ đã toát ra từ nội tâm, chẳng phải từ vẻ ngoài hào nhoáng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/45/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng không lời, ẩn chứa khí chất",
+      "description": "Đôi khi, nét tướng của bậc vĩ nhân không phải là những đường nét sắc sảo, nổi bật. Mà là sự hài hòa, điềm đạm, ánh mắt kiên định và nụ cười thấu hiểu. Chúng ta tìm thấy sự chân thành và bền bỉ, hơn là sự phô trương nhất thời.",
+      "tts": "Nét tướng của bậc vĩ nhân... đôi khi không nằm ở những đường nét sắc sảo, nổi bật... mà là sự hài hòa, điềm đạm, ánh mắt kiên định và nụ cười thấu hiểu... Ta tìm thấy nơi họ sự chân thành, bền bỉ, hơn là những gì phô trương nhất thời.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/45/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tướng từ tâm sinh, không cầu kỳ",
+      "description": "Nhân tướng học nhắc nhở ta rằng, tướng mạo là phản chiếu của tâm hồn. Người có tâm lớn, chí lớn, thường có tướng mạo bình dị nhưng khí chất phi thường. Họ không cần tô vẽ, vì giá trị thật sự đã nằm sâu bên trong.",
+      "tts": "Nhân tướng học nhắc nhở ta rằng, tướng mạo chính là phản chiếu của tâm hồn... Người có tâm lớn, chí lớn, thường mang tướng mạo bình dị... nhưng khí chất lại phi thường... Họ chẳng cần tô vẽ, vì giá trị thật sự đã nằm sâu bên trong, vĩnh cửu và bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/45/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Dấu hiệu của người làm việc lớn qua tướng mạo",
+    "description": "Bạn có bao giờ tự hỏi người làm việc lớn thường có nét tướng như thế nào? Không phải sự phô trương, mà là khí chất trầm tĩnh và nội lực sâu sắc. Khám phá cùng Nhân Tướng VN nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#khi_chat",
+      "#trietlycuocsong",
+      "#hieunguoi",
+      "#fyp"
+    ]
+  }
+}

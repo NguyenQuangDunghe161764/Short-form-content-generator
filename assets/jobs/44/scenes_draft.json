@@ -1,0 +1,62 @@
+{
+  "topic": "Nét tướng của người càng nhảy việc càng đổi nghề lại càng phất lên vù vù",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Dòng chảy biến động, khí phách vươn xa",
+      "visual_concept": "Cánh chim đại bàng sải rộng bay vút qua những đỉnh núi trùng điệp, hướng về phía chân trời rực rỡ. Thể hiện sự tự do, vượt lên và khai phá những vùng đất mới.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/44/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm vận xuôi dòng, tướng tùy duyên đổi",
+      "description": "Trong dòng đời biến động, có những người mang khí chất đặc biệt. Họ không ngại thay đổi, xem mỗi bước ngoặt là cơ hội để khám phá bản thân và khai mở tiềm năng mới. Vận mệnh của họ dường như thuận theo những dịch chuyển.",
+      "tts": "Trong dòng đời biến động... có những con người mang khí chất đặc biệt... Họ thuận theo dòng chảy thời gian... không ngại thay đổi... mà xem mỗi dịch chuyển là cơ hội khai mở tiềm năng... Vận mệnh của họ dường như cũng từ đó mà xoay vần.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/44/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí chất tiên phong, vận mệnh tự thân",
+      "description": "Những người này thường toát lên vẻ năng động, ánh mắt tinh anh, và thần thái tự tin. Họ có tư duy rộng mở, không bị ràng buộc bởi lối mòn. Dáng vẻ của họ cho thấy sự linh hoạt, quyết đoán và khát khao chinh phục những đỉnh cao mới.",
+      "tts": "Khí chất tiên phong ấy... thường toát lên qua ánh mắt tinh anh... thần thái tự tin và sự năng động... Họ có tư duy rộng mở... không bị ràng buộc bởi lối mòn... luôn linh hoạt và quyết đoán trong mọi hành trình.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/44/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm thế vững vàng, đón nhận biến thiên",
+      "description": "Thành công không đến từ việc 'nhảy việc' đơn thuần, mà từ tâm thế luôn học hỏi và thích nghi. Họ biết cách biến thử thách thành kinh nghiệm quý báu, luôn giữ vững nội lực và tầm nhìn. Chính sự chủ động này đã giúp họ 'phất lên' qua mỗi lần đổi thay.",
+      "tts": "Thành công thực sự không đến từ việc thay đổi công việc đơn thuần... mà từ tâm thế luôn học hỏi và thích nghi... Họ biến thử thách thành kinh nghiệm quý báu... giữ vững nội lực cùng tầm nhìn... Chính sự chủ động ấy đã giúp họ vững vàng và 'phất lên' qua mỗi lần biến thiên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/44/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Tướng người càng đổi việc càng phất lên vù vù!",
+    "description": "Bạn có bao giờ tự hỏi vì sao có những người càng đổi việc lại càng thành công rực rỡ? Nhân tướng học không chỉ nhìn vào khuôn mặt mà còn ở khí chất và tâm thế. Khám phá những nét tướng của người có vận mệnh thuận theo biến động, không ngại thử thách để vươn lên mạnh mẽ. Liệu bạn có sở hữu những nét tướng này?",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#doi viec",
+      "#thanhcong",
+      "#phattrienbanthan",
+      "#trietlycuocsong"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "Nhìn bộ vị này biết ngay người sinh ra để làm sếp lãnh đạo thiên bẩm",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Khí Phách Người Thống Lĩnh: Dấu Ấn Bẩm Sinh?",
+      "visual_concept": "Một người đàn ông hoặc phụ nữ trong trang phục truyền thống, đứng vững chãi trên đỉnh núi hoặc trước một bức tranh sơn thủy rộng lớn, ánh mắt nhìn xa xăm, toát lên vẻ uy nghiêm, điềm tĩnh và có tầm nhìn. Ánh sáng bình minh hoặc hoàng hôn chiếu rọi, tạo cảm giác về quyền lực và sự dẫn dắt.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/37/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tố Chất Lãnh Đạo: Không Chỉ Là Vị Trí",
+      "description": "Người lãnh đạo không chỉ là người đứng đầu một tổ chức, mà còn là người có khả năng định hướng, truyền cảm hứng. Khí phách ấy thường toát ra từ thần thái, ánh mắt, phản ánh nội lực bên trong. Tướng mạo chỉ là phần biểu hiện, cái tâm mới là gốc rễ của mọi phẩm chất.",
+      "tts": "Tố chất lãnh đạo... không chỉ là vị trí, mà là khả năng định hướng, truyền cảm hứng. Khí phách ấy toát ra từ thần thái, ánh mắt... phản ánh nội lực bên trong. Tướng mạo chỉ là biểu hiện... cái tâm mới là gốc rễ mọi phẩm chất.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/37/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Dấu Hiệu Của Tầm Nhìn Và Trí Tuệ",
+      "description": "Trong nhân tướng học, một vầng trán rộng, cao thường biểu thị trí tuệ minh mẫn, tầm nhìn xa trông rộng và khả năng tư duy chiến lược. Đôi mắt sáng, có thần sắc, thể hiện sự quyết đoán, khả năng nhìn thấu vấn đề và ý chí kiên cường. Những đặc điểm này thường đi kèm với phong thái điềm tĩnh, tự tin.",
+      "tts": "Trong nhân tướng học... vầng trán rộng, cao biểu thị trí tuệ minh mẫn, tầm nhìn xa. Đôi mắt sáng, có thần sắc... thể hiện sự quyết đoán, ý chí kiên cường. Phong thái điềm tĩnh, tự tin... thường đi kèm.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/37/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tướng Tùy Tâm Chuyển: Nâng Tầm Khí Chất",
+      "description": "Tướng mạo có thể cho thấy tiềm năng, nhưng không quyết định hoàn toàn số phận. Khí chất lãnh đạo thực sự được tôi luyện qua trải nghiệm, tu dưỡng đạo đức và ý chí kiên cường. Tướng tốt nếu không có tâm sáng, không có hành động vì cộng đồng, cũng khó bền vững và phát triển.",
+      "tts": "Tướng mạo cho thấy tiềm năng... song số phận tùy tâm chuyển. Khí chất lãnh đạo tôi luyện qua trải nghiệm, tu dưỡng đạo đức, ý chí kiên cường. Tướng tốt nếu không có tâm sáng, không vì cộng đồng... khó bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/37/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có tố chất lãnh đạo bẩm sinh không?",
+    "description": "Khám phá những đặc điểm thường thấy ở người có khí phách lãnh đạo qua góc nhìn nhân tướng học Việt Nam. Liệu bạn có những dấu hiệu này? Đừng quên, tâm tính và nỗ lực mới là chìa khóa thành công thực sự!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#LanhDao",
+      "#TrietLySong",
+      "#KhamPhaBanThan",
+      "#PhatTrienBanThan"
+    ]
+  }
+}

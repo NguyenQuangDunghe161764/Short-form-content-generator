@@ -1,0 +1,59 @@
+{
+  "topic": "Lý do vì sao người có nét tướng này đi làm ăn xa dễ thành công hơn ở quê nhà",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:12:15+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 465,
+      "output_tokens": 120,
+      "total_tokens": 585
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:12:38+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 544,
+      "output_tokens": 120,
+      "total_tokens": 664
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:13:05+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 537,
+      "output_tokens": 120,
+      "total_tokens": 657
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:13:30+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 533,
+      "output_tokens": 120,
+      "total_tokens": 653
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2079,
+    "output_tokens": 480,
+    "total_tokens": 2559
+  }
+}

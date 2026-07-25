@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người có năng lực thuyết phục thiên bẩm cất lời là ai cũng nghe",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:06:52+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 473,
+      "output_tokens": 120,
+      "total_tokens": 593
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:07:11+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 520,
+      "output_tokens": 120,
+      "total_tokens": 640
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:07:33+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 536,
+      "output_tokens": 120,
+      "total_tokens": 656
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:07:58+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 528,
+      "output_tokens": 120,
+      "total_tokens": 648
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2057,
+    "output_tokens": 480,
+    "total_tokens": 2537
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "Người có đặc điểm này làm nghề nào cũng có quý nhân theo sau trợ lực",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Nét tướng phúc đức: Quý nhân tự tìm đến",
+      "visual_concept": "Một khuôn mặt người phụ nữ hoặc đàn ông Việt Nam trung niên, ánh mắt hiền từ, nụ cười nhẹ nhàng, toát lên vẻ phúc hậu. Phía sau là khung cảnh vườn nhà cổ kính, bình yên. Ánh sáng dịu nhẹ bao trùm, gợi cảm giác tĩnh tại, an lành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/39/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Phúc tướng không ở hình hài, mà ở tâm hồn",
+      "description": "Trong nhân tướng học, 'phúc tướng' không chỉ là những đường nét ngoại hình cố định. Nó là sự biểu hiện của một tâm hồn thiện lương, chính trực và luôn hướng về điều tốt đẹp. Vẻ ngoài chỉ là tấm gương phản chiếu nội tâm được vun đắp qua thời gian, không phải là thứ có sẵn.",
+      "tts": "Phúc tướng trong nhân tướng học... không nằm ở hình hài bên ngoài, mà chính là sự biểu hiện của một tâm hồn thiện lương, chính trực... Vẻ ngoài chỉ là tấm gương phản chiếu nội tâm được vun đắp qua tháng ngày.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/39/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Tâm thiện lành, quý nhân tự tìm đến",
+      "description": "Khi bạn sống chân thành, tử tế và luôn nỗ lực không ngừng, năng lượng tích cực sẽ lan tỏa mạnh mẽ. Chính sự chân thành, đáng tin cậy và lòng vị tha này sẽ thu hút những người có tâm, có tầm muốn giúp đỡ bạn. Đó là quy luật tương tác nhân quả của vũ trụ.",
+      "tts": "Khi ta sống chân thành, tử tế... và luôn nỗ lực, năng lượng tích cực sẽ tự khắc lan tỏa... Chính sự đáng tin cậy, lòng vị tha này... sẽ thu hút những quý nhân có tâm, có tầm đến với ta.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/39/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Sức mạnh của sự kết nối chân thành",
+      "description": "Quý nhân không chỉ là người mang đến cơ hội hay trợ lực vật chất. Họ còn là người soi sáng, dẫn dắt bạn vượt qua khó khăn bằng trí tuệ và kinh nghiệm. Mối quan hệ này được xây dựng trên nền tảng của lòng tin và sự tôn trọng, giúp bạn vững vàng trên mọi nẻo đường sự nghiệp.",
+      "tts": "Quý nhân... không chỉ mang đến cơ hội hay trợ lực vật chất... mà còn là người soi sáng, dẫn dắt ta vượt qua khó khăn bằng trí tuệ, kinh nghiệm. Mối quan hệ chân thành ấy... sẽ giúp ta vững vàng trên mọi nẻo đường cuộc đời.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/39/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bật mí nét tướng thu hút quý nhân trong mọi công việc!",
+    "description": "Bạn có tò mò về nét tướng giúp bạn luôn có quý nhân trợ lực trong mọi công việc không? Video này sẽ khám phá bí mật của sự may mắn và thành công, không phải do số phận mà do chính nội tâm của bạn tạo nên. Hãy cùng tìm hiểu nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#phuctuong",
+      "#quynhan",
+      "#trietlycuocsong",
+      "#fyp"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "topic": "Người làm việc lớn thật sự thường không thích phô trương qua nét tướng này",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:15:56+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 469,
+      "output_tokens": 120,
+      "total_tokens": 589
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:16:18+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 527,
+      "output_tokens": 120,
+      "total_tokens": 647
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:16:42+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 542,
+      "output_tokens": 120,
+      "total_tokens": 662
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-25T11:17:02+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 527,
+      "output_tokens": 120,
+      "total_tokens": 647
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2065,
+    "output_tokens": 480,
+    "total_tokens": 2545
+  }
+}

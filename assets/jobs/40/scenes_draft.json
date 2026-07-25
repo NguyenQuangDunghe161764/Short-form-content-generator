@@ -1,0 +1,62 @@
+{
+  "topic": "Nét tướng của người có năng lực thuyết phục thiên bẩm cất lời là ai cũng nghe",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Lời lẽ uyên thâm, lòng người khuất phục",
+      "visual_concept": "Một vị hiền triết cổ xưa, tay cầm cuộn giấy, ánh mắt trầm tư nhìn về phía xa, như đang suy ngẫm về sức mạnh của lời nói. Ánh sáng nhẹ nhàng từ phía sau làm nổi bật khuôn mặt.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/40/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Sức mạnh từ lời nói",
+      "description": "Trong nhân tướng học, lời nói không chỉ là âm thanh. Nó là biểu hiện của nội tâm, trí tuệ và cả khí chất của một người. Người có năng lực thuyết phục bẩm sinh thường mang theo 'khí' đặc biệt trong từng câu chữ.",
+      "tts": "Trong nhân tướng học, lời nói không chỉ là âm thanh... mà còn là biểu hiện của nội tâm, trí tuệ và khí chất của một người... Những ai có năng lực thuyết phục bẩm sinh, thường mang theo một 'khí' đặc biệt trong từng câu chữ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/40/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng của bậc thầy thuyết phục",
+      "description": "Người có khả năng thuyết phục thường sở hữu giọng nói vang, rõ ràng, âm điệu trầm ổn. Miệng rộng, môi đầy đặn, khóe miệng hướng lên. Ánh mắt thường sáng, có thần, toát lên sự chân thành và uy tín.",
+      "tts": "Tướng mạo của bậc thầy thuyết phục... thường sở hữu giọng nói vang, rõ ràng, âm điệu trầm ổn... Nét miệng rộng, môi đầy, khóe miệng hướng lên... Ánh mắt sáng, có thần, toát lên sự chân thành và uy tín.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/40/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Lời nói từ tâm, tướng tùy tâm sinh",
+      "description": "Tướng mạo chỉ là một phần, cốt lõi của khả năng thuyết phục nằm ở tấm lòng và sự tu dưỡng. Khi tâm sáng, lời nói tự khắc có sức nặng và sự chân thành. Luyện khẩu, luyện tâm, ắt thành công.",
+      "tts": "Tuy nhiên, tướng mạo chỉ là một phần... Cốt lõi của khả năng thuyết phục nằm ở tấm lòng và sự tu dưỡng... Khi tâm sáng, lời nói tự khắc có sức nặng và chân thành... Luyện khẩu, cũng chính là luyện tâm, ắt sẽ thành công.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/40/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Tướng người cất lời là ai cũng nghe?",
+    "description": "Khám phá những nét tướng đặc biệt của người có năng lực thuyết phục thiên bẩm. Liệu có phải chỉ là may mắn, hay đó là dấu hiệu của nội lực và sự tu dưỡng? Cùng tìm hiểu trong video này nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#thuyetphuc",
+      "#nghethuatgiaotiep",
+      "#hieunguoi",
+      "#phattrienbanthan"
+    ]
+  }
+}
