@@ -1,0 +1,62 @@
+{
+  "topic": "Lý do vì sao người có nét tướng này rất hay yêu nhầm người và mù quáng",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tình si vướng lụy, mắt lòng mờ che",
+      "visual_concept": "Một người phụ nữ ngồi trước bàn trang điểm cổ, nhìn vào chiếc gương đồng đã cũ. Hình ảnh phản chiếu trong gương hơi mờ ảo, như ẩn chứa sự day dứt, trăn trở về những quyết định trong tình yêu. Ánh sáng nhẹ nhàng chiếu từ phía sau, tạo không khí chiêm nghiệm.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/52/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng do tâm sinh, tình cũng từ tâm mà đổi",
+      "description": "Trong nhân tướng, những nét phác họa trên gương mặt đôi khi hé lộ một phần tâm tính. Người dễ bị lụy tình, yêu mù quáng thường mang trong mình sự nhạy cảm sâu sắc, dễ tin người và khao khát được yêu thương mãnh liệt. Đây không phải định mệnh, mà là một xu hướng từ nội tâm.",
+      "tts": "Tướng do tâm sinh... tình cũng từ tâm mà đổi thay... Nét trên gương mặt đôi khi hé lộ tâm tính... như sự nhạy cảm sâu sắc... dễ khiến ta lụy tình, yêu mù quáng... Đó là một xu hướng nội tâm... không phải định mệnh.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/52/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Lòng tin dễ trao, mắt thường bỏ qua khuyết điểm",
+      "description": "Nét tướng thể hiện sự bao dung quá mức, hoặc đôi khi là thiếu tự tin, có thể khiến ta dễ dàng đặt trọn niềm tin vào đối phương. Khi tâm trí bị che mờ bởi cảm xúc, những dấu hiệu cảnh báo dù rõ ràng cũng dễ bị bỏ qua, dẫn đến việc chấp nhận những điều không xứng đáng.",
+      "tts": "Vì sự bao dung quá mức... hay đôi khi là thiếu tự tin... khiến lòng tin dễ trao... mắt thường bỏ qua khuyết điểm... Khi tâm trí bị cảm xúc che mờ... những dấu hiệu cảnh báo dù rõ ràng cũng dễ bị bỏ qua.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/52/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Hiểu mình để tình yêu không còn là mê lầm",
+      "description": "Nhân tướng học không phải để phán xét, mà là một tấm gương để ta tự soi chiếu. Nhận diện được những xu hướng trong tâm hồn mình qua nét tướng là bước đầu để điều chỉnh. Khi biết trân trọng giá trị bản thân và nhìn nhận mọi việc khách quan, tình yêu sẽ trở nên sáng suốt và bền vững hơn.",
+      "tts": "Nhân tướng học không phải để phán xét... mà là tấm gương để ta tự soi chiếu... Nhận diện xu hướng tâm hồn qua nét tướng... là bước đầu để điều chỉnh... Khi trân trọng bản thân... nhìn nhận khách quan... tình yêu sẽ sáng suốt và bền vững hơn.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/52/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Vì sao cứ mãi yêu nhầm người?",
+    "description": "Bạn có bao giờ tự hỏi vì sao mình cứ mãi lặp lại những sai lầm trong tình yêu? Nhân tướng học có thể không cho bạn câu trả lời tuyệt đối, nhưng sẽ gợi mở những lý do sâu xa từ bên trong bạn. Hãy cùng tìm hiểu để yêu một cách khôn ngoan hơn nhé.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#yeunhamnguoi",
+      "#tinhyeu",
+      "#trietlycuocsong",
+      "#hieumua"
+    ]
+  }
+}
