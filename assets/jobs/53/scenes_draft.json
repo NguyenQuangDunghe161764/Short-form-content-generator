@@ -1,0 +1,62 @@
+{
+  "topic": "Nhìn đặc điểm này biết ngay ai càng lớn tuổi lại càng vận đào hoa vây quanh",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Nét duyên không phai theo năm tháng",
+      "visual_concept": "Một người phụ nữ lớn tuổi với nụ cười hiền hậu, ánh mắt tinh anh, đang tưới cây cảnh trong một khu vườn nhỏ yên bình, gợi sự thanh tao và an nhiên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/53/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm bình, tướng tự an",
+      "description": "Khi tâm hồn an nhiên, tự tại, dung mạo con người cũng tự nhiên toát lên vẻ hài hòa.\nNếp nhăn không che mờ ánh mắt thiện lương, mà còn hằn sâu thêm chiều sâu của trải nghiệm.\nVẻ đẹp nội tâm là suối nguồn của sự thu hút bền vững, không bị thời gian bào mòn.\nChính sự điềm tĩnh và thấu hiểu cuộc đời làm nên khí chất khó cưỡng.",
+      "tts": "Khi tâm an nhiên, dung mạo ắt toát lên vẻ hài hòa. Nếp nhăn không làm mờ ánh mắt thiện lương, mà hằn sâu thêm chiều sâu trải nghiệm. Sự điềm tĩnh và thấu hiểu cuộc đời, chính là suối nguồn của vẻ đẹp nội tâm bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/53/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí chất thanh cao, phong thái ung dung",
+      "description": "Năm tháng không lấy đi sự tươi trẻ, mà bồi đắp thêm sự đĩnh đạc và uyển chuyển.\nCách ứng xử tinh tế, giọng nói ấm áp, nụ cười từ tốn là điểm cộng lớn.\nMột người biết lắng nghe, biết sẻ chia sẽ luôn có sức hút đặc biệt.\nPhong thái ung dung, tự tin nhưng khiêm nhường là biểu hiện của nội lực.",
+      "tts": "Năm tháng không lấy đi sự tươi trẻ, mà bồi đắp sự đĩnh đạc, uyển chuyển trong phong thái. Cách ứng xử tinh tế, giọng nói ấm áp, nụ cười từ tốn... cùng khả năng lắng nghe, sẻ chia, tạo nên sức hút đặc biệt. Đó là nội lực từ sự ung dung, khiêm nhường.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/53/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Duyên lành tự đến, phúc đức tự sinh",
+      "description": "Sự 'đào hoa' khi tuổi tác chồng chất không còn là vẻ ngoài phù phiếm.\nMà là năng lực tạo dựng những mối quan hệ chân thành, sâu sắc.\nNgười có đức dày, trí tuệ minh mẫn sẽ thu hút sự ngưỡng mộ và tin cậy.\nDuyên lành tự đến từ những giá trị cốt lõi mà thời gian đã tôi luyện.",
+      "tts": "Sự 'đào hoa' khi tuổi tác chồng chất, không còn là vẻ ngoài phù phiếm... mà chính là năng lực tạo dựng mối quan hệ chân thành, sâu sắc. Người có đức dày, trí tuệ minh mẫn... sẽ thu hút sự ngưỡng mộ và tin cậy. Duyên lành rồi sẽ tự đến, từ những giá trị cốt lõi mà thời gian đã tôi luyện nên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/53/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Vì sao có người càng lớn tuổi càng 'đào hoa'?",
+    "description": "Vẻ đẹp thực sự không phai mờ theo năm tháng. Khám phá những đặc điểm tướng mạo và khí chất giúp một người càng thêm cuốn hút khi tuổi tác chồng chất. Đây không phải là mê tín, mà là triết lý về sự trưởng thành của tâm hồn.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#vebepkhongtuoi",
+      "#trietlysong",
+      "#phongthai",
+      "#hieunguoi"
+    ]
+  }
+}

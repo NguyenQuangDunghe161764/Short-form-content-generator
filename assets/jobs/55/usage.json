@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người có hôn nhân bền vững cùng nhau vượt qua mọi sóng gió",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:22:50+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 484,
+      "output_tokens": 120,
+      "total_tokens": 604
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:23:16+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 537,
+      "output_tokens": 120,
+      "total_tokens": 657
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:23:42+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 545,
+      "output_tokens": 120,
+      "total_tokens": 665
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:24:04+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 539,
+      "output_tokens": 120,
+      "total_tokens": 659
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2105,
+    "output_tokens": 480,
+    "total_tokens": 2585
+  }
+}

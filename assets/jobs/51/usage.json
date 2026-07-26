@@ -1,0 +1,59 @@
+{
+  "topic": "Hai nét tướng này khi lấy nhau sẽ vượng tài vượng lộc bổ trợ công danh",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:16:36+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 486,
+      "output_tokens": 120,
+      "total_tokens": 606
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:17:00+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 532,
+      "output_tokens": 120,
+      "total_tokens": 652
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:17:24+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 532,
+      "output_tokens": 120,
+      "total_tokens": 652
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:17:47+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 543,
+      "output_tokens": 120,
+      "total_tokens": 663
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2093,
+    "output_tokens": 480,
+    "total_tokens": 2573
+  }
+}

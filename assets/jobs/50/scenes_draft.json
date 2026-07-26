@@ -1,0 +1,62 @@
+{
+  "topic": "Nét tướng của người kết hôn sớm lại cực kỳ hạnh phúc viên mãn đến già",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Duyên sớm kết, phúc trọn đời",
+      "visual_concept": "Đôi uyên ương trẻ tuổi, tay trong tay bước qua cổng làng cổ kính, ánh nắng ban mai rọi qua tàng cây cổ thụ, tượng trưng cho sự khởi đầu bình yên và bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/50/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm an định, duyên sớm lành",
+      "description": "Trong nhân tướng, một số người toát ra khí chất điềm đạm, phúc hậu từ sớm. Đây thường là biểu hiện của nội tâm an định, biết trân trọng giá trị gia đình. Chính sự vững vàng từ bên trong giúp họ thu hút duyên lành, tìm thấy bạn đời sớm hơn.",
+      "tts": "Có những người... ngay từ sớm đã toát lên vẻ an nhiên, phúc hậu... Đó là bởi nội tâm họ vốn đã an định, biết trân trọng giá trị gia đình. Chính sự vững vàng từ bên trong... giúp họ thu hút duyên lành và sớm tìm được bạn đời.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/50/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng phúc hậu, duyên bền lâu",
+      "description": "Những nét tướng thể hiện sự cân đối, hài hòa trên gương mặt thường đi đôi với tính cách bao dung, biết vun đắp. Họ thường có đôi mắt sáng, nụ cười hiền, vầng trán rộng mở. Đây là những dấu hiệu của người biết đối nhân xử thế, tạo dựng hạnh phúc bền vững.",
+      "tts": "Những nét tướng phúc hậu... thường biểu lộ qua sự cân đối, hài hòa trên gương mặt... ánh mắt sáng, nụ cười hiền, và vầng trán rộng mở. Đây là dấu hiệu của một tâm hồn bao dung, biết đối nhân xử thế... để vun đắp hạnh phúc bền lâu.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/50/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Hạnh phúc viên mãn, từ tâm mà thành",
+      "description": "Hạnh phúc viên mãn không chỉ đến từ việc kết hôn sớm, mà còn là sự vun đắp không ngừng. Người có tướng phúc thường biết giữ gìn tình cảm, luôn đặt gia đình lên hàng đầu. Tướng do tâm sinh, và chính cái tâm ấy giữ lửa cho một cuộc hôn nhân trọn vẹn đến cuối đời.",
+      "tts": "Hạnh phúc viên mãn... không chỉ là việc kết duyên sớm, mà còn là sự vun đắp không ngừng nghỉ. Người có nét tướng phúc hậu... thường biết giữ gìn tình cảm, luôn đặt gia đình lên hàng đầu. Bởi lẽ, tướng do tâm sinh... và chính cái tâm ấy sẽ giữ lửa cho một cuộc hôn nhân trọn vẹn đến cuối đời.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/50/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Nét tướng của người kết hôn sớm mà hạnh phúc viên mãn",
+    "description": "Bạn có bao giờ tự hỏi vì sao một số người lại có đường tình duyên suôn sẻ, kết hôn sớm mà vẫn viên mãn đến già? Cùng Nhân Tướng VN tìm hiểu về những nét tướng và phẩm chất ẩn sau đó nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#nhantuonghoc",
+      "#honnhan",
+      "#hanhphucgiadinh",
+      "#trietlycuocsong"
+    ]
+  }
+}

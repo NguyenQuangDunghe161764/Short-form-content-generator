@@ -1,0 +1,62 @@
+{
+  "topic": "Cảnh báo nét tướng của người dễ bị phản bội và lợi dụng trong tình cảm",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Khi lòng tin đặt sai chỗ: Dấu hiệu cảnh báo",
+      "visual_concept": "Một bàn tay nhẹ nhàng nâng niu đóa hoa lan mỏng manh, phía sau là bóng tối ẩn hiện của những sợi dây leo chằng chịt, gợi sự mong manh và nguy cơ bị vướng mắc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/48/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm thiện nhưng thiếu phòng bị",
+      "description": "Người có bản chất lương thiện, dễ tin người thường mang khí chất hiền lành. Tuy nhiên, nếu thiếu đi sự cảnh giác và khả năng phân biệt, lòng tốt ấy dễ trở thành điểm yếu để kẻ xấu lợi dụng. Đây không phải lỗi của họ, mà là bài học cần học để tự bảo vệ mình.",
+      "tts": "Người có bản chất lương thiện, dễ tin người... thường toát lên khí chất hiền hòa. Nhưng nếu thiếu sự cảnh giác, lòng tốt ấy dễ trở thành điểm yếu... một bài học cần học.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/48/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Ánh mắt và thần thái biểu lộ",
+      "description": "Ánh mắt thường là cửa sổ tâm hồn. Người dễ tổn thương có thể sở hữu đôi mắt quá trong sáng, thiếu chiều sâu, hoặc ánh nhìn hay lảng tránh. Thần thái tổng thể đôi khi toát lên vẻ cam chịu, thiếu sự tự chủ, khiến họ dễ trở thành mục tiêu cho những người có ý đồ không tốt.",
+      "tts": "Ánh mắt... biểu lộ tâm hồn. Người dễ tổn thương có thể sở hữu đôi mắt quá trong sáng, thiếu chiều sâu... Thần thái đôi khi toát lên vẻ cam chịu, thiếu tự chủ... dễ trở thành mục tiêu.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/48/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Thần thái và sự tự chủ của bản thân",
+      "description": "Thần thái là tổng hòa của khí chất và năng lượng. Một người có thần thái yếu, giọng nói nhỏ nhẹ, hành động thiếu dứt khoát thường khó đặt ra ranh giới cho bản thân. Điều này vô tình tạo cơ hội cho kẻ khác vượt qua giới hạn, dần dần dẫn đến sự phản bội và lợi dụng.",
+      "tts": "Thần thái là tổng hòa khí chất và năng lượng... Người có thần thái yếu, thiếu dứt khoát... thường khó đặt ra ranh giới. Điều này vô tình tạo cơ hội cho kẻ khác vượt qua giới hạn... dẫn đến sự lợi dụng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/48/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Cảnh báo nét tướng người dễ bị lợi dụng tình cảm",
+    "description": "Trong tình yêu, đôi khi lòng tốt lại trở thành điểm yếu. Nhân tướng học không dự đoán tương lai, nhưng giúp ta nhận biết những dấu hiệu về tính cách, khí chất của người dễ bị tổn thương. Từ đó, ta có thể tự bảo vệ mình và những người xung quanh một cách khôn ngoan hơn.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#trietlycuocsong",
+      "#hieunguoi",
+      "#tinhyeu",
+      "#canhbao"
+    ]
+  }
+}

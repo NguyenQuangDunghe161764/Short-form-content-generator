@@ -1,0 +1,62 @@
+{
+  "topic": "Nét tướng của người có hôn nhân bền vững cùng nhau vượt qua mọi sóng gió",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Hôn Nhân Bền Vững: Điểm Tựa Giữa Dòng Đời",
+      "visual_concept": "Đôi bàn tay già nua nắm chặt nhau, đặt trên một cuốn sách cổ, phía sau là khung cửa sổ nhìn ra vườn cây xanh tốt, nắng ấm chiếu vào. Gợi hình ảnh về sự gắn kết, cùng nhau đi qua năm tháng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/55/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm An Định, Tướng Vững Bền",
+      "description": "Hôn nhân là hành trình dài, cần sự vững chãi từ nội tâm. Người có tâm hồn bình lặng, biết sẻ chia và thấu hiểu thường sở hữu nét tướng hài hòa, toát lên vẻ tin cậy. Đó là nền tảng cho một mối quan hệ bền chặt.",
+      "tts": "Hôn nhân là hành trình dài, cần sự vững chãi từ nội tâm... Một tâm hồn an định, biết sẻ chia và thấu hiểu, thường mang nét tướng hài hòa, toát lên vẻ tin cậy... Đó là nền tảng vững bền cho một mối quan hệ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/55/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Ánh Mắt Sáng, Nụ Cười Hiền: Dấu Hiệu Lòng Chung Thủy",
+      "description": "Một đôi mắt sáng rõ, không vẩn đục, cùng nụ cười chân thành thường biểu lộ sự ngay thẳng, tấm lòng son sắt. Những nét tướng này gợi lên sự chung thủy, sẵn sàng đồng hành và sẻ chia mọi buồn vui, thử thách.",
+      "tts": "Một đôi mắt sáng rõ, không vẩn đục, cùng nụ cười chân thành... thường biểu lộ sự ngay thẳng, tấm lòng son sắt thủy chung... Những nét tướng này gợi lên sự sẵn sàng đồng hành, sẻ chia mọi buồn vui trong đời.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/55/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Đồng Hành, Đồng Tâm: Tướng Giao Hòa",
+      "description": "Hôn nhân bền vững không chỉ là nét tướng riêng lẻ, mà là sự hòa hợp của hai tâm hồn. Khi hai người cùng vun đắp, tướng mạo dần biểu lộ sự đồng điệu, tạo nên vẻ đẹp của sự gắn kết và tình yêu trưởng thành theo năm tháng.",
+      "tts": "Nhưng hôn nhân bền vững không chỉ là nét tướng riêng lẻ... mà là sự hòa hợp của hai tâm hồn, cùng nhau vun đắp... Khi ấy, tướng mạo dần biểu lộ sự đồng điệu, tạo nên vẻ đẹp của sự gắn kết và tình yêu trưởng thành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/55/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Nét tướng nào cho hôn nhân bền vững?",
+    "description": "Bạn có tò mò về những nét tướng học thường thấy ở những cặp đôi có hôn nhân hạnh phúc, cùng nhau vượt qua mọi sóng gió? Nhân Tướng VN sẽ bật mí những dấu hiệu tinh tế, không mê tín, giúp bạn chiêm nghiệm về tình yêu và sự gắn kết.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#honnhanbenvung",
+      "#tinhyeu",
+      "#trietlycuocsong",
+      "#fyp"
+    ]
+  }
+}

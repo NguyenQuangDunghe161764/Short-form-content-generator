@@ -1,0 +1,59 @@
+{
+  "topic": "Kiểu người có nét tướng này khi đã yêu là hết lòng chân thành đến đáng thương",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:08:13+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 452,
+      "output_tokens": 120,
+      "total_tokens": 572
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:08:40+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 538,
+      "output_tokens": 120,
+      "total_tokens": 658
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:09:04+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 544,
+      "output_tokens": 120,
+      "total_tokens": 664
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:09:31+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 544,
+      "output_tokens": 120,
+      "total_tokens": 664
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2078,
+    "output_tokens": 480,
+    "total_tokens": 2558
+  }
+}

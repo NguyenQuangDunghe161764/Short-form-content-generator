@@ -1,0 +1,62 @@
+{
+  "topic": "Sự thật về người càng yêu lại càng gặp may mắn công danh sự nghiệp phất lên",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tình Duyên Vững Bền, Sự Nghiệp Hưng Thịnh: Mối Liên Kết Nào?",
+      "visual_concept": "Một đôi tay đan vào nhau nhẹ nhàng trên bàn gỗ cổ, phía xa là khung cửa sổ mở ra cảnh bình minh rực rỡ, tượng trưng cho sự gắn kết và khởi đầu tốt đẹp của tình yêu và sự nghiệp.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/49/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm Hạnh Sáng Ngời, Vận Khí Tự Sinh",
+      "description": "Tình yêu thương chân thành nuôi dưỡng sự bình an và sáng suốt trong tâm hồn. Một nội tâm vững chãi, tự tin là nền tảng thu hút năng lượng tích cực, định hình hướng đi cho mọi sự.",
+      "tts": "Tâm hạnh sáng ngời... khởi nguồn từ tình yêu thương chân thành, nuôi dưỡng bình an. Nội tâm vững chãi, tự tin... sẽ thu hút năng lượng tích cực, định hình hướng đi cho mọi sự.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/49/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Tình Thâm Hóa Khí, Quan Hệ Vẹn Toàn",
+      "description": "Khi trái tim rộng mở, ta dễ dàng thấu hiểu và sẻ chia. Sự bao dung trong tình cảm giúp xây dựng những mối quan hệ chân thành, nhận được sự tin tưởng, hỗ trợ từ những người xung quanh trên hành trình sự nghiệp.",
+      "tts": "Khi trái tim rộng mở... ta dễ dàng thấu hiểu, sẻ chia. Sự bao dung ấy... xây dựng mối quan hệ chân thành, mang đến tin tưởng và hỗ trợ quý giá từ xung quanh.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/49/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Hạnh Phúc Nảy Mầm, Thành Công Đơm Hoa",
+      "description": "Tâm an, trí sáng, các quyết định trở nên đúng đắn và có tầm nhìn xa. Năng lượng từ tình yêu và sự hỗ trợ từ các mối quan hệ giúp ta vững vàng vượt qua mọi thử thách, tạo tiền đề cho thành công bền vững.",
+      "tts": "Tâm an, trí sáng... giúp quyết định đúng đắn, có tầm nhìn xa. Năng lượng từ tình yêu thương và hỗ trợ ấy... giúp ta vững vàng vượt mọi thử thách, tạo tiền đề cho thành công bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/49/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Yêu nhiều, công danh có phất lên?",
+    "description": "Có một mối liên kết tinh tế giữa tình yêu và sự nghiệp mà ít ai để ý. Khi tâm hồn được nuôi dưỡng bởi tình yêu thương, vận khí tự sinh, giúp công danh hanh thông. Cùng Nhân Tướng VN khám phá nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tinhyeu",
+      "#congdanh",
+      "#hanhphuc",
+      "#trietly"
+    ]
+  }
+}

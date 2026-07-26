@@ -1,0 +1,59 @@
+{
+  "topic": "Sở hữu đặc điểm này bạn có sức hút tự nhiên khiến người khác giới mê đắm",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:24:40+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 480,
+      "output_tokens": 120,
+      "total_tokens": 600
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:25:05+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 525,
+      "output_tokens": 120,
+      "total_tokens": 645
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:25:26+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 538,
+      "output_tokens": 120,
+      "total_tokens": 658
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:25:50+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 542,
+      "output_tokens": 120,
+      "total_tokens": 662
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2085,
+    "output_tokens": 480,
+    "total_tokens": 2565
+  }
+}

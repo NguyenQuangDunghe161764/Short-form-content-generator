@@ -1,0 +1,62 @@
+{
+  "topic": "Hai nét tướng này khi lấy nhau sẽ vượng tài vượng lộc bổ trợ công danh",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tướng Phu Thê: Hài Hòa Tạo Phúc Lộc",
+      "visual_concept": "Ánh sáng dịu nhẹ chiếu qua khung cửa sổ gỗ cổ, một cặp đôi (nam và nữ) đang nắm tay nhau, hướng về phía xa xăm như một tương lai tươi sáng. Khung cảnh toát lên vẻ bình yên, sung túc của một gia đình Việt truyền thống.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/51/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng phu thê: Hơn cả nét mặt",
+      "description": "Nhân tướng học không chỉ nhìn hình tướng bên ngoài. Sự hòa hợp thực sự nằm ở khí chất, thần thái, và cách hai người tương tác. Khi tâm hồn đồng điệu, tướng mạo tự khắc toát lên vẻ vượng khí, bổ trợ nhau trên hành trình cuộc sống.",
+      "tts": "Tướng phu thê, không chỉ là nét mặt tương đồng... mà là sự hòa hợp đích thực từ khí chất, thần thái và cách hai người tương tác... Khi tâm hồn đồng điệu, tướng mạo tự khắc toát lên vẻ vượng khí, bổ trợ nhau.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/51/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí chất tương hỗ, công danh rạng rỡ",
+      "description": "Một người vững vàng, kiên định; người kia linh hoạt, sáng tạo. Sự kết hợp này tạo nên sức mạnh tổng hòa, giúp cả hai vượt qua thử thách, mở rộng cơ đồ. Công danh, tài lộc ắt sẽ theo đó mà phát triển, bền vững theo thời gian.",
+      "tts": "Khi khí chất tương hỗ... một người vững vàng, kiên định; người kia linh hoạt, sáng tạo... sự kết hợp này tạo nên sức mạnh tổng hòa, giúp cả hai mở rộng cơ đồ... Công danh, tài lộc ắt sẽ phát triển bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/51/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Phúc lộc bền vững, khởi nguồn từ Tâm",
+      "description": "Dù tướng mạo có đẹp đến mấy, nếu tâm không thiện, ý không lành, phúc lộc cũng khó bền. Tướng phu thê vượng khí là khi cả hai cùng giữ tâm an tịnh, vun đắp tình nghĩa, thì mọi sự hanh thông tự đến, cuộc sống gia đình ấm êm.",
+      "tts": "Tuy nhiên, dù tướng mạo có đẹp đến mấy, nếu tâm không thiện, phúc lộc cũng khó bền... Tướng phu thê vượng khí là khi cả hai cùng giữ tâm an tịnh, vun đắp tình nghĩa... Mọi sự hanh thông tự đến, cuộc sống gia đình sẽ ấm êm.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/51/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Hai nét tướng này khi lấy nhau sẽ vượng tài vượng lộc?",
+    "description": "Nhân tướng học có nói về sự hòa hợp trong hôn nhân, nhưng không phải là phép màu. Khám phá cách khí chất và tâm hồn tương hỗ có thể mang lại may mắn và thành công cho cả hai vợ chồng, tạo nên một cuộc sống viên mãn.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tuongphuthe",
+      "#honnhan",
+      "#phucloc",
+      "#trietlycuocsong"
+    ]
+  }
+}

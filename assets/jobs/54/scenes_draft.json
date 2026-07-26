@@ -1,0 +1,62 @@
+{
+  "topic": "Đừng lo lận đận nét tướng này dự báo bạn sẽ gặp đúng chân ái vào tuổi trung niên",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Duyên lành muộn: Hạnh phúc chờ người thấu tâm",
+      "visual_concept": "Một người phụ nữ trung niên với ánh mắt an yên, nhìn ra ngoài cửa sổ nơi có một cặp đôi đang nắm tay đi dạo dưới ánh nắng hoàng hôn. Gợi cảm giác chờ đợi bình an và sự viên mãn đến đúng lúc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/54/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng diện phản ánh dòng chảy cuộc đời",
+      "description": "Mỗi nét trên gương mặt đều là dấu vết của thời gian và trải nghiệm. Chúng không chỉ là hình hài, mà còn là bản đồ tinh thần, ghi lại những thăng trầm, những bài học ta đã đi qua. Từ đó mà duyên phận cũng dần thành hình.",
+      "tts": "Tướng diện của mỗi người... chẳng khác nào tấm gương phản chiếu dòng chảy cuộc đời. Mỗi nét... đều là dấu vết của thời gian và trải nghiệm... từ đó... duyên phận cũng dần thành hình.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/54/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Sự chờ đợi vun đắp tâm hồn sâu sắc",
+      "description": "Có những nét tướng gợi ý một hành trình tình cảm không vội vàng. Điều này không phải là lận đận, mà là cơ hội để bồi đắp trí tuệ, sự bao dung và thấu hiểu. Tâm hồn càng chín chắn, càng dễ nhận ra và trân trọng duyên lành.",
+      "tts": "Có những nét tướng... gợi ý hành trình tình cảm không vội vàng. Đây không phải lận đận... mà là cơ hội bồi đắp trí tuệ... sự bao dung và thấu hiểu. Tâm hồn càng chín chắn... càng dễ nhận ra duyên lành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/54/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Chân ái đến từ sự trưởng thành",
+      "description": "Khi tâm đã vững, trí đã sáng, ta sẽ gặp được người phù hợp, không bởi định mệnh, mà bởi sự đồng điệu của hai tâm hồn đã trải qua tôi luyện. Hạnh phúc viên mãn thực sự thường nở rộ từ sự trưởng thành và chiêm nghiệm sâu sắc.",
+      "tts": "Khi tâm đã vững... trí đã sáng... ta sẽ gặp được người phù hợp. Không hẳn bởi định mệnh... mà là sự đồng điệu của hai tâm hồn đã tôi luyện. Hạnh phúc viên mãn... thường nở rộ từ sự trưởng thành và chiêm nghiệm sâu sắc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/54/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Duyên lành muộn liệu có phải là phúc?",
+    "description": "Có những nét tướng trên gương mặt có thể gợi ý một hành trình tình cảm không vội vàng. Đây không phải là điều đáng lo, mà là cơ hội để vun đắp tâm hồn, đón nhận duyên lành đến từ sự trưởng thành và thấu hiểu sâu sắc.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tinhyeu",
+      "#duyenlanh",
+      "#trietlycuocsong",
+      "#fyp"
+    ]
+  }
+}

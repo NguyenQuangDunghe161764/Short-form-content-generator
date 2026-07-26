@@ -1,0 +1,62 @@
+{
+  "topic": "Sở hữu đặc điểm này bạn có sức hút tự nhiên khiến người khác giới mê đắm",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Nét duyên ngầm: Hồn cốt tạo nên sức hút",
+      "visual_concept": "Một người phụ nữ hoặc đàn ông đứng lặng lẽ, ánh sáng nhẹ nhàng từ cửa sổ cổ chiếu vào, gương mặt thanh thoát, toát lên vẻ bình yên và tự tại. Sự hấp dẫn không đến từ vẻ ngoài hào nhoáng mà từ nội tâm sâu sắc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/56/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Sức hút thật sự từ đâu mà có?",
+      "description": "Trong nhân tướng học, sức hút không chỉ là vẻ bề ngoài. Đó là sự tổng hòa của tâm hồn, khí chất, và cách ta đối đãi với thế giới. Một tâm hồn đẹp ắt sẽ tỏa ra năng lượng thu hút, chạm đến trái tim người khác.",
+      "tts": "Trong nhân tướng học, sức hút thật sự không chỉ nằm ở vẻ bề ngoài... Mà là sự tổng hòa của tâm hồn, khí chất, và cách ta đối đãi với vạn vật... Một tâm hồn chân thiện, ắt sẽ tỏa ra năng lượng thu hút, lay động lòng người.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/56/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí chất tự nhiên: Nét duyên không lời",
+      "description": "Ánh mắt biết cười, nụ cười chân thành, hay dáng đi khoan thai đều là biểu hiện của một nội tâm phong phú. Đó là khí chất tự nhiên, khiến người khác cảm thấy dễ chịu, tin tưởng và muốn gần gũi. Nét duyên này không cần phô trương vẫn tỏa sáng.",
+      "tts": "Một ánh mắt biết cười, một nụ cười chân thành, hay dáng đi khoan thai... đều là những biểu hiện của nội tâm phong phú... Đó chính là khí chất tự nhiên, khiến người ta cảm thấy dễ chịu, tin tưởng và muốn gần gũi... Nét duyên ấy, chẳng cần phô trương, vẫn tự khắc tỏa sáng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/56/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm sinh tướng: Duyên lành tự đến",
+      "description": "Sức hút tự nhiên không phải là bẩm sinh mà là quá trình tu dưỡng tâm hồn. Khi tâm an lành, thiện lương, tướng mạo tự khắc sẽ toát lên vẻ đẹp hài hòa. Nhờ đó, bạn sẽ thu hút những mối duyên lành, những mối quan hệ tốt đẹp đến với cuộc sống của mình.",
+      "tts": "Sức hút tự nhiên không phải là bẩm sinh... mà là cả một quá trình tu dưỡng tâm hồn... Khi tâm ta an lành, thiện lương, tướng mạo tự khắc sẽ toát lên vẻ đẹp hài hòa... Nhờ đó, những mối duyên lành, những mối quan hệ tốt đẹp sẽ tự tìm đến với cuộc sống của ta.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/56/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có biết nét tướng này giúp bạn thu hút tự nhiên?",
+    "description": "Trong Nhân tướng học, có những đặc điểm không chỉ về hình dáng mà còn về khí chất, tâm hồn, tạo nên sức hút khó cưỡng. Khám phá xem đâu là những nét duyên ngầm giúp bạn tỏa sáng và thu hút những mối quan hệ tốt đẹp. Từ đó, hiểu mình và hiểu người để sống khôn ngoan hơn.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#sucut",
+      "#trietlysong",
+      "#phattrienbanthan",
+      "#fyp"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "Kiểu người có nét tướng này khi đã yêu là hết lòng chân thành đến đáng thương",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Dấu ấn của Tấm lòng chân thành",
+      "visual_concept": "Một đôi tay đang nhẹ nhàng nắm lấy một trái tim bằng pha lê trong suốt, phản chiếu ánh sáng dịu nhẹ. Ánh mắt người đầy sự chiêm nghiệm, thấu hiểu.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/47/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Trái tim dễ rung động chân thành",
+      "description": "Trong nhân tướng học, có những nét cho thấy một tâm hồn thuần khiết, dễ rung động và hết lòng khi đã yêu. Họ nhìn tình yêu bằng đôi mắt trong trẻo, không toan tính vụ lợi. Tấm lòng họ như dòng suối mát, luôn sẵn sàng sẻ chia và tưới tắm cho mối quan hệ.",
+      "tts": "Trong nhân tướng học, có những nét biểu lộ tâm hồn thuần khiết, dễ rung động chân thành... Họ nhìn tình yêu bằng đôi mắt trong trẻo, không toan tính... Tấm lòng ấy luôn sẵn sàng sẻ chia.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/47/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Tận hiến cho tình yêu, không toan tính",
+      "description": "Khi đã trao gửi tình cảm, họ sẽ dâng hiến tất cả: thời gian, công sức và cả những phần sâu kín nhất của bản thân. Sự chân thành ấy đôi khi khiến họ quên đi bản thân mình, chấp nhận thiệt thòi để giữ gìn mối quan hệ. Tình yêu của họ là một sự cho đi vô điều kiện.",
+      "tts": "Khi đã trao gửi tình cảm, họ dâng hiến trọn vẹn... đôi khi quên đi chính mình, chấp nhận thiệt thòi... Tình yêu của họ, là một sự cho đi vô điều kiện.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/47/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Chân thành là báu vật, cũng là thử thách",
+      "description": "Nét tướng này cho thấy một trái tim vàng, nhưng cũng ẩn chứa sự dễ tổn thương. Họ cần được thấu hiểu và trân trọng, bởi sự cả tin có thể khiến họ chịu nhiều thiệt thòi. Tướng do tâm sinh, và tấm lòng ấy cần được bảo vệ bằng trí tuệ để tình yêu luôn bền vững.",
+      "tts": "Chân thành là báu vật, nhưng cũng là thử thách... Trái tim vàng ấy dễ tổn thương, bởi sự cả tin... Cần được bảo vệ bằng trí tuệ, để tình yêu luôn bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/47/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Dấu hiệu người yêu hết lòng chân thành?",
+    "description": "Bạn có từng gặp người yêu thương chân thành đến mức đáng thương? Nhân tướng học có thể gợi mở những nét tính cách đặc trưng, giúp chúng ta hiểu rõ hơn về tấm lòng của đối phương. Hãy cùng khám phá và trân trọng những trái tim ấy nhé.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tinhyeu",
+      "#chanthanh",
+      "#hieunguoi",
+      "#trietly"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người kết hôn sớm lại cực kỳ hạnh phúc viên mãn đến già",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:14:28+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 467,
+      "output_tokens": 120,
+      "total_tokens": 587
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:14:50+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 537,
+      "output_tokens": 120,
+      "total_tokens": 657
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:15:14+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 547,
+      "output_tokens": 120,
+      "total_tokens": 667
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-26T11:15:38+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 547,
+      "output_tokens": 120,
+      "total_tokens": 667
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2098,
+    "output_tokens": 480,
+    "total_tokens": 2578
+  }
+}
