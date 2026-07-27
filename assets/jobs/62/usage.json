@@ -1,0 +1,59 @@
+{
+  "topic": "Dấu hiệu của người có trực giác cực mạnh linh cảm chuyện gì là chuẩn chuyện đó",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:00:26+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 462,
+      "output_tokens": 120,
+      "total_tokens": 582
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:00:46+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 528,
+      "output_tokens": 120,
+      "total_tokens": 648
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:01:15+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 554,
+      "output_tokens": 120,
+      "total_tokens": 674
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:01:40+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 547,
+      "output_tokens": 120,
+      "total_tokens": 667
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2091,
+    "output_tokens": 480,
+    "total_tokens": 2571
+  }
+}

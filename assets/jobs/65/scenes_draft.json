@@ -1,0 +1,62 @@
+{
+  "topic": "Nét tướng của người có ý chí sắt đá vươn lên từ nghịch cảnh để làm giàu",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Ý chí vững vàng, định mệnh đổi thay",
+      "visual_concept": "Hình ảnh một cây tùng mạnh mẽ vươn mình trên vách đá cheo leo, rễ bám sâu, lá xanh tươi giữa bão tố – biểu tượng cho nghị lực phi thường và sự kiên cường.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/65/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng do tâm sinh, lực do khổ luyện",
+      "description": "Nhân tướng học không chỉ là nhìn hình dáng bên ngoài. Nó là tấm gương phản chiếu nội lực và tinh thần của một người.\nNgười từng trải qua gian khó, ý chí thường được tôi luyện sắc bén, tạo nên khí chất khác biệt.\nBởi vậy, tướng mạo thường là biểu hiện của những gì ẩn sâu bên trong.",
+      "tts": "Tướng mạo, theo nhân tướng học, không chỉ là hình dáng bên ngoài... mà là tấm gương phản chiếu nội lực và tinh thần. Ý chí được tôi luyện qua gian khó... sẽ tạo nên một khí chất rất riêng biệt.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/65/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí phách hiển lộ, dáng dấp kiên cường",
+      "description": "Trong tướng học, khí chất toát ra từ đôi mắt, thần thái tổng thể thường quan trọng hơn nét cụ thể.\nNgười ý chí sắt đá thường có ánh nhìn kiên định, toát lên sự bình tĩnh và tập trung, không dễ lay động.\nDáng đi vững chãi, giọng nói có lực cũng là những biểu hiện của nội lực mạnh mẽ, không ngại đối diện thử thách.",
+      "tts": "Khí chất ấy, thường hiển lộ qua đôi mắt, thần thái tổng thể... quan trọng hơn những nét cụ thể. Ánh nhìn kiên định, dáng đi vững chãi... giọng nói có lực, đều là biểu hiện của nội lực mạnh mẽ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/65/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm an định, tướng tự đổi thay",
+      "description": "Đừng vội vàng phán xét qua vẻ ngoài. Tướng mạo chỉ là một phần nhỏ, có thể thay đổi theo thời gian.\nQuan trọng hơn là sự tu dưỡng nội tâm, kiên trì theo đuổi mục tiêu và không ngừng học hỏi.\nKhi tâm thái vững vàng, mọi nghịch cảnh đều có thể trở thành bệ phóng cho thành công và sự thịnh vượng bền vững.",
+      "tts": "Thế nên, đừng vội vàng phán xét qua vẻ ngoài... tướng mạo có thể đổi thay theo thời gian. Quan trọng là tu dưỡng nội tâm, kiên trì mục tiêu... Khi tâm thái vững vàng, mọi nghịch cảnh sẽ trở thành bệ phóng cho thành công.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/65/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Nét tướng người có ý chí sắt đá vươn lên từ nghịch cảnh?",
+    "description": "Bạn có bao giờ tự hỏi, liệu ý chí và nghị lực có thể hiện qua tướng mạo? Video này sẽ cùng bạn khám phá những dấu hiệu của người có nội lực phi thường, không ngại khó khăn để kiến tạo thành công và làm giàu. Cùng chiêm nghiệm nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#y_chi_sat_da",
+      "#nghichcanh",
+      "#phattrienbanthan",
+      "#trietlycuocsong"
+    ]
+  }
+}

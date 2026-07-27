@@ -1,0 +1,62 @@
+{
+  "topic": "Đặc điểm khuôn mặt của người nhìn qua là biết thông minh lanh lẹ hơn người",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Nét tướng nào ẩn chứa trí tuệ?",
+      "visual_concept": "Một người đang ngước nhìn lên bầu trời đêm đầy sao, ánh sáng phản chiếu trong đôi mắt tinh anh, gợi cảm giác suy tư sâu sắc và khao khát tri thức.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/63/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Ánh mắt tinh anh, thần thái linh hoạt",
+      "description": "Người xưa quan niệm, đôi mắt sáng, có thần, cùng với thần thái nhanh nhẹn, hoạt bát thường là dấu hiệu của một tâm hồn năng động. Đây là những nét tướng gợi mở về khả năng tiếp thu và xử lý thông tin nhanh chóng.",
+      "tts": "Đôi mắt tinh anh, có thần, cùng với thần thái linh hoạt, hoạt bát... thường gợi mở về một tâm hồn năng động, khả năng tiếp thu và xử lý thông tin nhanh nhạy.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/63/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Vầng trán rộng, tư duy sâu",
+      "description": "Vầng trán cao và rộng thường được liên tưởng đến không gian cho trí não phát triển, khả năng tư duy logic và sáng tạo. Tuy nhiên, điều quan trọng hơn là sự chăm chỉ rèn luyện và học hỏi không ngừng.",
+      "tts": "Kế đến, một vầng trán cao và rộng... thường được liên tưởng đến không gian cho trí não phát triển, khả năng tư duy logic và sáng tạo. Nhưng suy cho cùng, sự chăm chỉ rèn luyện và học hỏi không ngừng mới là điều cốt yếu.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/63/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm sáng, tướng đẹp",
+      "description": "Nhân tướng học không chỉ nhìn vào hình hài bên ngoài mà còn đề cao nội tâm. Một người thông minh thực sự không chỉ có nét tướng tốt mà còn có tâm hồn rộng mở, biết lắng nghe, thấu hiểu và không ngừng trau dồi đạo đức, trí tuệ.",
+      "tts": "Bởi lẽ, nhân tướng học không chỉ nhìn vào hình hài bên ngoài... mà còn đề cao nội tâm, coi trọng sự tu dưỡng bên trong. Một người thông minh thực sự, không chỉ có nét tướng tốt, mà còn có tâm hồn rộng mở, biết lắng nghe, thấu hiểu và không ngừng trau dồi đạo đức, trí tuệ cho chính mình.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/63/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Nhận biết người thông minh qua tướng diện?",
+    "description": "Liệu những đặc điểm trên khuôn mặt có thể hé lộ về trí tuệ và sự nhanh nhạy của một người? Cùng Nhân Tướng VN khám phá những quan niệm thú vị từ góc nhìn cổ xưa, nhưng hãy luôn nhớ, trí tuệ thật sự nằm ở sự tu dưỡng nội tâm.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#trietly",
+      "#hieunguoi",
+      "#thongminh",
+      "#nhantuonghoc"
+    ]
+  }
+}

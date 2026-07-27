@@ -1,0 +1,59 @@
+{
+  "topic": "Tướng người sống rất biết điều trước sau như một ai tiếp xúc cũng quý",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:53:51+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 459,
+      "output_tokens": 120,
+      "total_tokens": 579
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:54:17+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 510,
+      "output_tokens": 120,
+      "total_tokens": 630
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:54:41+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 522,
+      "output_tokens": 120,
+      "total_tokens": 642
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:55:09+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 518,
+      "output_tokens": 120,
+      "total_tokens": 638
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2009,
+    "output_tokens": 480,
+    "total_tokens": 2489
+  }
+}

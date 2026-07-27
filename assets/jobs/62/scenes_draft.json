@@ -1,0 +1,62 @@
+{
+  "topic": "Dấu hiệu của người có trực giác cực mạnh linh cảm chuyện gì là chuẩn chuyện đó",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Trực giác: Tiếng vọng từ nội tâm",
+      "visual_concept": "Một dòng suối trong vắt chảy qua khu rừng cổ kính, ánh sáng mặt trời chiếu xuyên tán lá, tạo cảm giác thanh tịnh, huyền bí. Gợi sự lắng nghe tiếng lòng và sự kết nối với thiên nhiên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/62/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Trực giác: Món quà của sự lắng nghe",
+      "description": "Trực giác không phải là phép thuật hay bói toán mê tín. Đó là khả năng tinh tế, tổng hòa từ kinh nghiệm, tri thức và sự nhạy cảm sâu sắc với thế giới xung quanh. Nó giúp ta nhận biết những điều ẩn sâu, chưa thể gọi tên bằng lý trí.",
+      "tts": "Trực giác không phải mê tín... mà là khả năng tinh tế, tổng hòa từ kinh nghiệm, tri thức và sự nhạy cảm sâu sắc. Nó giúp ta nhận biết những điều ẩn sâu, vượt khỏi lý trí thông thường.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/62/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Dấu ấn của 'tâm nhãn' sắc bén",
+      "description": "Người có trực giác mạnh thường nhạy cảm với năng lượng và cảm xúc. Họ dễ dàng cảm nhận sự thay đổi trong không khí, ánh mắt, lời nói của người khác. Đôi khi, một linh cảm chợt đến mà không có lý do rõ ràng, nhưng lại chuẩn xác đến lạ kỳ. Đó là tiếng nói từ tiềm thức, từ sự kết nối sâu sắc với bản chất sự vật.",
+      "tts": "Người có trực giác mạnh... thường nhạy cảm với năng lượng và cảm xúc. Họ cảm nhận được những thay đổi tinh vi xung quanh... Một linh cảm chợt đến không rõ lý do, nhưng lại chuẩn xác lạ kỳ... Đó là tiếng nói từ tiềm thức, kết nối với bản chất vạn vật.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/62/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Nuôi dưỡng trực giác, làm chủ cuộc đời",
+      "description": "Để trực giác phát huy tối đa, cần rèn luyện sự tĩnh lặng và khả năng quan sát tinh tế. Hãy tin vào cảm nhận đầu tiên, nhưng cũng đừng bỏ qua lý trí để kiểm chứng và cân nhắc. Trực giác là người bạn đồng hành quý giá, giúp ta đưa ra quyết định sáng suốt, tránh xa hiểm nguy và nắm bắt cơ hội trong cuộc sống.",
+      "tts": "Để trực giác phát huy tối đa... hãy rèn luyện sự tĩnh lặng và khả năng quan sát tinh tế. Tin vào cảm nhận đầu tiên, nhưng cũng cần lý trí để kiểm chứng... Trực giác là người bạn đồng hành quý giá, giúp ta quyết định sáng suốt, tránh hiểm nguy và nắm bắt cơ hội.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/62/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có trực giác 'thần sầu' không?",
+    "description": "Khám phá những dấu hiệu của người có trực giác mạnh mẽ, linh cảm chuẩn xác. Trực giác không phải là mê tín, mà là một khả năng tinh tế giúp bạn hiểu mình, hiểu người và đưa ra quyết định sáng suốt hơn trong cuộc sống.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#trucgiac",
+      "#linhcam",
+      "#phattrienbanthan",
+      "#hieunguoi"
+    ]
+  }
+}

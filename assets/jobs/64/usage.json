@@ -1,0 +1,59 @@
+{
+  "topic": "Tướng người càng bình tĩnh trước sóng gió thì sự nghiệp càng dễ thành công",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:04:59+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 474,
+      "output_tokens": 120,
+      "total_tokens": 594
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:05:35+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 531,
+      "output_tokens": 120,
+      "total_tokens": 651
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:06:17+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 536,
+      "output_tokens": 120,
+      "total_tokens": 656
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:06:45+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 552,
+      "output_tokens": 120,
+      "total_tokens": 672
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2093,
+    "output_tokens": 480,
+    "total_tokens": 2573
+  }
+}

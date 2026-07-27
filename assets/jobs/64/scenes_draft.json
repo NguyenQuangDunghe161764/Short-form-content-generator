@@ -1,0 +1,62 @@
+{
+  "topic": "Tướng người càng bình tĩnh trước sóng gió thì sự nghiệp càng dễ thành công",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tĩnh tại nội tâm, vững vàng ngoại cảnh",
+      "visual_concept": "Một người đứng lặng lẽ bên cửa sổ gỗ, nhìn ra ngoài trời đang mưa bão dữ dội nhưng nét mặt vẫn điềm nhiên, tay nhẹ nhàng đặt lên bàn trà. Ánh sáng dịu nhẹ từ trong nhà tương phản với cảnh vật ồn ào bên ngoài.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/64/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Sức mạnh từ sự điềm tĩnh",
+      "description": "Trong mọi biến cố, sự điềm tĩnh không phải là thờ ơ. Đó là khả năng giữ tâm trí thanh tịnh, giúp ta nhìn nhận vấn đề rõ ràng hơn. Một người bình tĩnh tự khắc toát lên khí chất lãnh đạo, tạo dựng niềm tin cho những người xung quanh.",
+      "tts": "Trong mọi biến cố... sự điềm tĩnh không phải thờ ơ, mà là giữ tâm trí thanh tịnh. Nó giúp ta nhìn nhận vấn đề rõ ràng... tự khắc toát lên khí chất lãnh đạo, tạo dựng niềm tin.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/64/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Quyết đoán trong bình yên",
+      "description": "Khi tâm không loạn, trí sẽ sáng. Sự bình tĩnh giúp ta tránh được những quyết định vội vàng, cảm tính. Thay vào đó, ta có thể phân tích tình huống khách quan, đưa ra lựa chọn sáng suốt ngay cả trong áp lực cao nhất. Đây là nền tảng của mọi thành công bền vững.",
+      "tts": "Khi tâm không loạn... trí ắt sẽ sáng. Bình tĩnh giúp ta tránh quyết định vội vàng... để phân tích khách quan, đưa ra lựa chọn sáng suốt. Đó là nền tảng cho mọi thành công bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/64/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Con đường sự nghiệp thênh thang",
+      "description": "Một thái độ điềm tĩnh giúp ta vượt qua thất bại mà không nản lòng, đối diện với thách thức mà không nao núng. Nó nuôi dưỡng sự kiên trì, khả năng thích nghi và xây dựng các mối quan hệ bền chặt. Bởi lẽ, sự nghiệp cũng như dòng sông, chỉ khi lòng người tĩnh lặng mới có thể xuôi dòng mà vươn xa.",
+      "tts": "Thái độ điềm tĩnh giúp ta vượt qua thất bại, đối diện thách thức... nuôi dưỡng kiên trì và khả năng thích nghi. Bởi lẽ, sự nghiệp như dòng sông... chỉ khi lòng người tĩnh lặng, mới có thể xuôi dòng mà vươn xa.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/64/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Tâm tĩnh lặng, sự nghiệp vững vàng?",
+    "description": "Cuộc đời là chuỗi sóng gió, nhưng cách ta đối diện mới làm nên sự khác biệt. Khám phá tại sao sự điềm tĩnh lại là yếu tố then chốt cho một sự nghiệp bền vững và rạng rỡ. Bài học từ Nhân Tướng VN.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#binhtinh",
+      "#thanhcong",
+      "#tamthai",
+      "#phattrienbanthan"
+    ]
+  }
+}

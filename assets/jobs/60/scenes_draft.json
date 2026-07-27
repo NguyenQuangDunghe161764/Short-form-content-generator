@@ -1,0 +1,62 @@
+{
+  "topic": "Người có tâm thiện hay giúp đỡ người khác thường sở hữu nét mặt này",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tâm thiện hiện nét, dung mạo sinh quang",
+      "visual_concept": "Một gương mặt phúc hậu, ánh mắt hiền từ, nụ cười nhẹ nhàng. Ánh sáng dịu nhẹ bao quanh, gợi lên vẻ đẹp của tâm hồn lương thiện, như một bức chân dung cổ điển.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/60/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng do tâm sinh, nét mặt ẩn chứa",
+      "description": "Người xưa dạy rằng, tướng mạo bên ngoài phần nào phản ánh nội tâm.\nMột tâm hồn lương thiện, thường xuyên nghĩ đến người khác sẽ dần định hình những nét tướng hài hòa, an lành, toát lên vẻ dễ chịu, gần gũi.",
+      "tts": "Người xưa thường chiêm nghiệm rằng... tướng mạo bên ngoài, phần nào chính là tấm gương phản chiếu nội tâm. Một tâm hồn lương thiện... sẽ dần định hình nên những nét tướng hài hòa, toát lên vẻ an lành, dễ chịu.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/60/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét phúc hậu, ánh mắt bao dung",
+      "description": "Thường thấy ở người có tâm thiện là gương mặt đầy đặn, vầng trán rộng mở, lông mày thanh tú và đôi mắt trong sáng, hiền hòa.\nNụ cười của họ thường rất chân thành, toát lên sự bao dung, khiến người đối diện cảm thấy tin cậy.",
+      "tts": "Ở người có tâm thiện lành... thường hiển lộ gương mặt đầy đặn, vầng trán rộng mở, cùng đôi mắt trong sáng, hiền hòa. Nụ cười chân thành ấy... toát lên sự bao dung, khiến người đối diện tin cậy.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/60/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tướng tùy tâm đổi, phúc đức vun bồi",
+      "description": "Tuy nhiên, tướng mạo không phải là bất biến. Nếu tâm không ngừng hướng thiện, hành động tích cực, thì nét mặt cũng sẽ dần trở nên rạng rỡ, phúc hậu hơn.\nPhúc đức tích lũy từ những việc làm tốt sẽ tôi luyện dung mạo theo thời gian.",
+      "tts": "Tuy nhiên, tướng mạo không phải là bất biến. Khi tâm không ngừng hướng thiện, hành động tích cực... dung mạo cũng sẽ dần trở nên rạng rỡ, phúc hậu hơn. Phúc đức tích lũy từ những việc làm tốt... sẽ tôi luyện và thay đổi ta theo thời gian.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/60/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Dấu hiệu nhận biết người có tâm thiện qua nét mặt",
+    "description": "Bạn có bao giờ tự hỏi, liệu những người tốt bụng, hay giúp đỡ người khác có nét mặt gì đặc biệt? Nhân tướng học gợi ý rằng, tâm hồn lương thiện có thể in dấu trên dung mạo. Cùng khám phá những đặc điểm thú vị này nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tamthien",
+      "#phuchau",
+      "#trietlysong",
+      "#hieunguoi"
+    ]
+  }
+}

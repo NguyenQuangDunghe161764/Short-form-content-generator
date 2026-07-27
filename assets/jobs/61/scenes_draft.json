@@ -1,0 +1,62 @@
+{
+  "topic": "Nhìn nét tướng này biết ngay người trọng chữ tín hứa điều gì là làm bằng được",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Chữ Tín: Gốc Rễ Của Nhân Cách",
+      "visual_concept": "Một chiếc ấn triện cổ được đặt trang trọng trên bàn gỗ, ánh sáng chiếu rọi, tượng trưng cho lời hứa và sự tin cậy. Xung quanh là những cuộn giấy cổ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/61/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Chữ Tín: Nền Tảng Của Nhân Cách",
+      "description": "Trong dòng chảy cuộc đời, lời hứa là sợi chỉ vô hình kết nối con người. Người trọng chữ tín, không chỉ giữ lời mà còn giữ trọn vẹn giá trị của bản thân. Đó là nền tảng vững chắc cho mọi mối quan hệ, tạo nên sự tin tưởng bền vững.",
+      "tts": "Chữ tín... là nền tảng của nhân cách... sợi chỉ vô hình kết nối con người. Giữ lời hứa... cũng là giữ trọn vẹn giá trị của bản thân... tạo nên sự tin tưởng bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/61/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Dấu Hiệu Của Tâm Ý Kiên Định",
+      "description": "Người có chữ tín thường toát lên sự điềm tĩnh, ánh mắt kiên nghị và khuôn miệng ngay ngắn, không lật lọng. Đây không phải là vẻ đẹp hình thức, mà là biểu hiện của nội tâm vững vàng, nhất quán trong lời nói và hành động. Tướng diện phản ánh ý chí.",
+      "tts": "Người có chữ tín... thường toát lên sự điềm tĩnh... ánh mắt kiên nghị... khuôn miệng ngay ngắn. Đây là biểu hiện của nội tâm vững vàng... nhất quán từ lời nói đến hành động.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/61/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tướng Tùy Tâm Đổi, Lời Hứa Tùy Duyên Thành",
+      "description": "Nhân tướng học giúp ta nhận diện những xu hướng tính cách. Tuy nhiên, tướng diện chỉ là một phần. Quan trọng hơn, chữ tín được hun đúc từ sự tu dưỡng tâm hồn, và có thể thay đổi theo thời gian. Hãy tự rèn mình để lời nói luôn có trọng lượng, có giá trị.",
+      "tts": "Nhân tướng học giúp ta nhận diện xu hướng... song tướng tùy tâm đổi. Chữ tín được hun đúc từ tu dưỡng tâm hồn... và có thể thay đổi. Hãy tự rèn mình... để lời nói luôn có trọng lượng và giá trị.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/61/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Nhận diện người trọng chữ tín qua tướng diện",
+    "description": "Lời hứa là vàng, nhưng làm sao để biết ai là người đáng tin cậy? Nhân tướng học gợi mở những dấu hiệu tinh tế về nội tâm kiên định, người giữ lời. Video này sẽ giúp bạn hiểu hơn về cách nhận diện người đáng tin, từ đó xây dựng những mối quan hệ vững chắc và ý nghĩa.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#chutinvang",
+      "#hieunguoi",
+      "#trietlycuocsong",
+      "#nhantuonghoc"
+    ]
+  }
+}

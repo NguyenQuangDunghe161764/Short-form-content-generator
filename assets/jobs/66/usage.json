@@ -1,0 +1,59 @@
+{
+  "topic": "Sở hữu khí chất này khiến người khác vừa nhìn đã thấy kính nể phục tùng",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:10:11+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 480,
+      "output_tokens": 120,
+      "total_tokens": 600
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:10:39+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 541,
+      "output_tokens": 120,
+      "total_tokens": 661
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:11:06+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 539,
+      "output_tokens": 120,
+      "total_tokens": 659
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:11:33+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 552,
+      "output_tokens": 120,
+      "total_tokens": 672
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2112,
+    "output_tokens": 480,
+    "total_tokens": 2592
+  }
+}

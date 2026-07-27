@@ -1,0 +1,59 @@
+{
+  "topic": "Tuyệt đối đừng đụng vào người có nét tướng này càng im lặng lại càng đáng gờm",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:51:24+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 485,
+      "output_tokens": 120,
+      "total_tokens": 605
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:51:49+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 548,
+      "output_tokens": 120,
+      "total_tokens": 668
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:52:16+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 557,
+      "output_tokens": 120,
+      "total_tokens": 677
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:52:44+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 549,
+      "output_tokens": 120,
+      "total_tokens": 669
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2139,
+    "output_tokens": 480,
+    "total_tokens": 2619
+  }
+}

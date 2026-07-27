@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người có ý chí sắt đá vươn lên từ nghịch cảnh để làm giàu",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:07:33+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 466,
+      "output_tokens": 120,
+      "total_tokens": 586
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:07:55+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 546,
+      "output_tokens": 120,
+      "total_tokens": 666
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:08:37+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 565,
+      "output_tokens": 120,
+      "total_tokens": 685
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:09:08+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 558,
+      "output_tokens": 120,
+      "total_tokens": 678
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2135,
+    "output_tokens": 480,
+    "total_tokens": 2615
+  }
+}

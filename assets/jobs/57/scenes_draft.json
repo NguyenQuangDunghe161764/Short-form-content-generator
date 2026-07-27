@@ -1,0 +1,62 @@
+{
+  "topic": "Cách nhận diện người nói được làm được quân tử uy tín qua nét mặt",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Quân tử uy tín: Tướng mạo nói gì?",
+      "visual_concept": "Một người đàn ông trung niên với vẻ mặt điềm tĩnh, ánh mắt sâu sắc, đang nhìn thẳng vào người đối diện với sự thấu hiểu. Bối cảnh là một thư phòng cổ kính, ánh sáng dịu nhẹ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/57/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Dung mạo: Gương soi của tâm hồn",
+      "description": "Người xưa tin rằng, tướng mạo không chỉ là vỏ bọc bên ngoài.\nNó là tấm gương phản chiếu khí chất, đạo đức và sự tu dưỡng nội tâm của một người.\nQuân tử uy tín thường toát lên vẻ điềm đạm, chính trực.\nĐây là nền tảng để ta bắt đầu quan sát.",
+      "tts": "Dung mạo là tấm gương phản chiếu khí chất, đạo đức, tu dưỡng nội tâm... Người đáng tin cậy thường toát lên vẻ điềm đạm, chính trực... đó là điểm khởi đầu để quan sát.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/57/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng hài hòa, khí chất vững vàng",
+      "description": "Người đáng tin cậy thường có khuôn mặt cân đối, đường nét rõ ràng nhưng không thô kệch.\nÁnh mắt trong sáng, thần thái khoan thai, biểu lộ sự chân thành.\nMiệng không nói lời thị phi, nụ cười hiền hậu, toát lên vẻ đoan trang.\nSự hài hòa này tạo nên vẻ ngoài đáng tin cậy.",
+      "tts": "Nét tướng hài hòa, cân đối... ánh mắt trong sáng, thần thái khoan thai... nụ cười hiền hậu, đoan trang... tạo nên khí chất vững vàng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/57/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm sinh tướng, tướng tùy tâm đổi",
+      "description": "Tướng mạo không phải là định mệnh cố định. Tâm tính thiện lương sẽ dần cải thiện dung mạo, khiến nét tướng thêm phần phúc hậu và uy tín.\nNgược lại, tâm xảo trá cũng sẽ lộ rõ qua thần thái.\nHãy quan sát sự nhất quán giữa lời nói, hành động và thần thái để nhận diện người đáng tin cậy.",
+      "tts": "Tướng mạo không phải định mệnh cố định... Bởi tâm sinh tướng, tướng tùy tâm đổi... Thiện lương cải thiện dung mạo, phúc hậu... Xảo trá ắt lộ rõ qua thần thái... Hãy quan sát sự nhất quán giữa lời nói, hành động và thần thái.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/57/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bí quyết nhìn người quân tử qua tướng mặt!",
+    "description": "Làm sao để nhận diện người đáng tin cậy, nói được làm được? Nhân tướng học không chỉ là xem bói, mà là một nghệ thuật nhìn người tinh tế. Cùng khám phá những nét tướng của người quân tử uy tín, không mê tín nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#xemtuong",
+      "#hieunguoi",
+      "#quantu",
+      "#trietlysong"
+    ]
+  }
+}

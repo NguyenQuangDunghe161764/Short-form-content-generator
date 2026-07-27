@@ -1,0 +1,62 @@
+{
+  "topic": "Tướng người sống rất biết điều trước sau như một ai tiếp xúc cũng quý",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tâm sáng, hành vi thuận, người người mến yêu",
+      "visual_concept": "Hình ảnh một người lớn tuổi, hiền từ, đang pha trà trong không gian thanh tịnh. Ánh mắt bình thản, động tác chậm rãi, toát lên sự điềm đạm, trước sau như một.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/59/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Gốc rễ của sự thấu hiểu",
+      "description": "Người biết điều không chỉ là khéo léo trong lời nói. Đó là sự thấu cảm sâu sắc, đặt mình vào vị trí người khác để suy nghĩ. Là lòng chân thành, không vụ lợi, luôn giữ sự tôn trọng.",
+      "tts": "Sự thấu hiểu thực sự... không nằm ở lời nói khéo léo. Mà là tấm lòng thấu cảm sâu sắc... biết đặt mình vào vị trí người khác... cùng chân thành và tôn trọng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/59/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng của người giữ chữ tín",
+      "description": "Ánh mắt thường điềm tĩnh, nụ cười hiền hậu, ít phô trương. Lời nói rõ ràng, hành động nhất quán, không thay đổi ý kiến dễ dàng. Họ thể hiện sự kiên định, đáng tin cậy qua từng cử chỉ nhỏ.",
+      "tts": "Người giữ chữ tín... ánh mắt điềm tĩnh, nụ cười hiền hậu. Lời nói rõ ràng, hành động nhất quán... toát lên sự kiên định và đáng tin cậy.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/59/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Hương thơm lan tỏa, lòng người tự quy",
+      "description": "Sự chân thành và nhất quán tạo nên niềm tin vững chắc. Người như vậy không cần phô trương, họ vẫn được quý trọng tự nhiên. Bởi lẽ, sự tử tế trước sau như một chính là giá trị bền vững nhất.",
+      "tts": "Chính sự chân thành và nhất quán ấy... tạo nên niềm tin vững chắc. Họ không cần phô trương... vẫn được quý trọng tự nhiên... vì tử tế trước sau như một... là giá trị bền vững.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/59/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có nhận ra nét tướng của người 'biết điều'?",
+    "description": "Trong Nhân tướng học, có những đặc điểm tinh tế cho thấy một người sống rất biết trước biết sau, luôn được lòng mọi người. Cùng khám phá những 'nét tướng' đặc biệt này nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#bietdieu",
+      "#truocsau",
+      "#trietlycuocsong",
+      "#hieunguoi"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "topic": "Nhìn nét tướng này biết ngay người trọng chữ tín hứa điều gì là làm bằng được",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:58:16+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 462,
+      "output_tokens": 120,
+      "total_tokens": 582
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:58:44+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 538,
+      "output_tokens": 120,
+      "total_tokens": 658
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:59:10+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 541,
+      "output_tokens": 120,
+      "total_tokens": 661
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T12:59:35+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 544,
+      "output_tokens": 120,
+      "total_tokens": 664
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2085,
+    "output_tokens": 480,
+    "total_tokens": 2565
+  }
+}

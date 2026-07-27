@@ -1,0 +1,62 @@
+{
+  "topic": "Tuyệt đối đừng đụng vào người có nét tướng này càng im lặng lại càng đáng gờm",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Sự Im Lặng: Vỏ Bọc Hay Sức Mạnh Tiềm Tàng?",
+      "visual_concept": "Một hồ nước tĩnh lặng, phản chiếu bầu trời đêm đầy sao. Dưới mặt hồ, ẩn chứa dòng chảy sâu và mạnh mẽ, không ai nhìn thấy rõ. Ánh sáng mờ ảo từ mặt trăng chiếu rọi.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/58/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Im Lặng: Không Phải Thiếu Lời, Mà Là Thấu Thị",
+      "description": "Có những người ít nói, nhưng đôi mắt họ lại nói lên nhiều điều. Họ không vội vàng phán xét, mà dành thời gian quan sát, lắng nghe và chiêm nghiệm. Sự im lặng ấy là cánh cửa dẫn vào một thế giới nội tâm phong phú, nơi trí tuệ được tôi luyện.",
+      "tts": "Có những người tưởng chừng ít lời... nhưng thực ra, đôi mắt họ lại nói lên vạn điều. Sự im lặng ấy không phải thiếu vắng ngôn từ, mà là cánh cửa dẫn vào thế giới nội tâm sâu thẳm... nơi trí tuệ được tôi luyện qua quan sát, chiêm nghiệm.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/58/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét Tướng Của Người Nội Lực Sâu Sắc",
+      "description": "Người có nội lực thường có ánh mắt sâu, khó dò. Vầng trán cao rộng, biểu trưng cho tư duy sâu sắc. Khóe miệng thường ẩn chứa nét kiên định, dù ít khi nở nụ cười lớn. Sự điềm tĩnh trong cử chỉ cho thấy ý chí vững vàng, không dễ bị lay chuyển bởi ngoại cảnh.",
+      "tts": "Người có nội lực sâu sắc... thường mang ánh mắt sâu thẳm, khó dò. Vầng trán cao rộng biểu trưng tư duy uyên bác... cùng khóe miệng ẩn chứa nét kiên định, ý chí vững vàng, không dễ lay chuyển.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/58/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tôn Trọng Sự Im Lặng, Tránh Xúc Phạm Vô Tri",
+      "description": "Với những người này, sự vội vàng hay khinh suất có thể dẫn đến hậu quả không lường. Hãy tiếp cận bằng thái độ chân thành và tôn trọng. Bởi lẽ, người có tâm sâu như biển, dù trầm lặng nhưng khi đã quyết, sức mạnh ấy có thể lay chuyển mọi thứ.",
+      "tts": "Với những tâm hồn như vậy, sự vội vàng hay khinh suất... dễ gây hậu quả khó lường. Hãy tiếp cận bằng chân thành và tôn trọng... bởi người có tâm sâu như biển, khi đã quyết, sức mạnh ấy có thể lay chuyển mọi thứ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/58/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Đừng đụng vào người có nét tướng này! 👀",
+    "description": "Trong nhân tướng học, có những người càng im lặng lại càng ẩn chứa sức mạnh đáng gờm. Họ không phô trương, nhưng nội lực lại vô cùng sâu sắc. Hãy học cách nhận biết và đối xử khôn ngoan với những cá nhân đặc biệt này.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#hieunguoi",
+      "#trietlysong",
+      "#noiluc",
+      "#fyp"
+    ]
+  }
+}

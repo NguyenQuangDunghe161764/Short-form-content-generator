@@ -1,0 +1,62 @@
+{
+  "topic": "Sở hữu khí chất này khiến người khác vừa nhìn đã thấy kính nể phục tùng",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Khí Chất: Dấu Ấn Nội Tâm, Vạn Sự Tương Phùng",
+      "visual_concept": "Một người lớn tuổi với phong thái điềm tĩnh, ánh mắt sâu sắc, toát lên vẻ uy nghi tự nhiên. Ánh sáng nhẹ nhàng bao quanh, không rực rỡ nhưng đủ để cảm nhận sự hiện diện mạnh mẽ, không cần phô trương.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/66/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Khí Chất: Hơi Thở Của Tâm Hồn",
+      "description": "Khí chất không phải là vẻ ngoài hào nhoáng hay lời nói khoa trương. Đó là tổng hòa của nội lực, sự điềm tĩnh và trí tuệ được tôi luyện. Khí chất toát ra từ sâu thẳm tâm hồn, là dấu hiệu của một tâm hồn vững chãi, bình an.",
+      "tts": "Khí chất... không nằm ở vẻ ngoài hào nhoáng, hay những lời nói khoa trương. Nó là tổng hòa của nội lực, sự điềm tĩnh và trí tuệ đã tôi luyện... hơi thở của một tâm hồn vững chãi, bình an.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/66/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Dáng Vẻ An Nhiên, Khí Chất Vững Bền",
+      "description": "Một người có khí chất thường thể hiện qua phong thái ung dung, ánh mắt kiên định và giọng nói trầm ổn. Họ không vội vàng, không lo sợ, luôn giữ được sự tự chủ. Dáng vẻ này không cố tạo ra, mà là sự phản chiếu của nội tâm đã được tu dưỡng.",
+      "tts": "Từ tâm hồn vững chãi ấy... khí chất thể hiện qua phong thái ung dung, ánh mắt kiên định. Họ không vội vàng, không lo sợ... luôn tự chủ, phản chiếu nội tâm đã tu dưỡng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/66/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tu Dưỡng Khí Chất: Gieo Trồng Hạt Giống Kính Trọng",
+      "description": "Để có khí chất, cần gieo trồng những hạt giống thiện lành: sống chính trực, rèn luyện trí tuệ, và giữ tâm bình thản. Khi tâm hồn thanh tịnh, khí chất tự nhiên sẽ toát ra, khiến người khác cảm thấy tin cậy và kính trọng một cách tự nguyện, không cần phải ép buộc.",
+      "tts": "Để có được nội tâm ấy... ta cần gieo trồng hạt giống thiện lành: sống chính trực, rèn luyện trí tuệ, giữ tâm bình thản. Khi tâm hồn thanh tịnh, khí chất tự nhiên sẽ toát ra... khiến người khác tin cậy và kính trọng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/66/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bí mật khí chất khiến người khác phải nể trọng!",
+    "description": "Khí chất không chỉ là vẻ ngoài, mà là tổng hòa của nội tâm và cách ta đối nhân xử thế. Tìm hiểu những phẩm chất tạo nên sức hút vô hình, giúp bạn nhận được sự kính trọng tự nhiên từ mọi người. Bởi tướng do tâm sinh, khí chất cũng từ tâm mà thành.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#khichat",
+      "#phongthai",
+      "#trietlycuocsong",
+      "#kính_nể"
+    ]
+  }
+}

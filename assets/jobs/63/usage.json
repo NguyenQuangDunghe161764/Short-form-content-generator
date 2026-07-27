@@ -1,0 +1,59 @@
+{
+  "topic": "Đặc điểm khuôn mặt của người nhìn qua là biết thông minh lanh lẹ hơn người",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:02:33+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 453,
+      "output_tokens": 120,
+      "total_tokens": 573
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:03:00+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 522,
+      "output_tokens": 120,
+      "total_tokens": 642
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:03:27+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 511,
+      "output_tokens": 120,
+      "total_tokens": 631
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-27T13:03:50+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 526,
+      "output_tokens": 120,
+      "total_tokens": 646
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2012,
+    "output_tokens": 480,
+    "total_tokens": 2492
+  }
+}
