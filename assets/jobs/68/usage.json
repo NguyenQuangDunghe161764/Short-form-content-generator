@@ -1,0 +1,59 @@
+{
+  "topic": "Người có đặc điểm này về già cực kỳ có phúc được con cháu hiếu thảo báo đáp",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:43:03+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 464,
+      "output_tokens": 120,
+      "total_tokens": 584
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:43:34+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 529,
+      "output_tokens": 120,
+      "total_tokens": 649
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:44:15+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 529,
+      "output_tokens": 120,
+      "total_tokens": 649
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:44:47+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 537,
+      "output_tokens": 120,
+      "total_tokens": 657
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2059,
+    "output_tokens": 480,
+    "total_tokens": 2539
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "Tướng người số may mắn hay gặp quý nhân xuất hiện đúng lúc nguy cấp",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Duyên lành ẩn tàng, phước báu trợ duyên",
+      "visual_concept": "Một con thuyền nhỏ giữa biển đêm giông bão, bất ngờ một ngọn hải đăng xa xăm lóe sáng, chiếu rọi lối đi. Ánh sáng ấm áp nhưng mạnh mẽ.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/69/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Phước báu tự thân, quý nhân tự đến",
+      "description": "Người xưa dạy rằng, quý nhân không tự dưng mà có. Họ đến từ phước báu ta đã gieo trồng, từ tâm thiện lương và cách ta đối đãi với đời. Đó là sự tương tác kỳ diệu giữa nội lực và ngoại duyên.",
+      "tts": "Người xưa dạy rằng, quý nhân không tự dưng mà đến... Họ là quả ngọt từ phước báu ta đã gieo trồng, từ tâm thiện lương và cách ta đối đãi với đời... Đó là sự tương giao huyền diệu giữa nội lực và ngoại duyên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/69/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng thiện hòa, dễ kết duyên lành",
+      "description": "Nhân tướng học gợi ý những nét tướng thường đi đôi với tâm tính dễ được người giúp đỡ. Ánh mắt hiền từ, vầng trán rộng mở, hay đôi tai dày dặn không chỉ là đặc điểm, mà còn phản ánh một nội tâm thiện lương, bao dung, dễ tạo thiện cảm.",
+      "tts": "Nhân tướng học cũng gợi mở về những nét tướng thiện hòa... Ánh mắt hiền từ, vầng trán rộng mở, hay đôi tai dày dặn... chúng thường phản ánh một nội tâm bao dung, dễ tạo thiện cảm và thu hút duyên lành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/69/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tu dưỡng nội tâm, vạn sự hanh thông",
+      "description": "Tuy nhiên, tướng chỉ là biểu hiện bên ngoài. Quan trọng hơn cả là tu dưỡng đạo đức, sống chân thành và giữ tâm an lạc. Khi nội tâm vững vàng, chính trực, tự khắc sẽ thu hút những mối duyên lành, quý nhân sẽ xuất hiện đúng lúc.",
+      "tts": "Thế nhưng, tướng chỉ là biểu hiện bên ngoài... Điều cốt lõi là tu dưỡng đạo đức, sống chân thành và giữ tâm an lạc... Khi nội tâm vững vàng, chính trực, tự khắc sẽ thu hút duyên lành, quý nhân sẽ xuất hiện đúng lúc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/69/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Tướng người may mắn, luôn gặp quý nhân?",
+    "description": "Có phải chỉ những người có tướng số đặc biệt mới gặp may mắn và được quý nhân phù trợ? Khám phá góc nhìn nhân tướng học về việc thu hút những duyên lành trong cuộc sống qua video này.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#quynhan",
+      "#mayman",
+      "#phuocduc",
+      "#trietlycuocsong"
+    ]
+  }
+}

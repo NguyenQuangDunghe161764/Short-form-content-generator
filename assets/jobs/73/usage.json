@@ -1,0 +1,59 @@
+{
+  "topic": "Nét tướng của người có số mạng lớn dễ dàng vượt qua các hạn tai ưng",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:54:49+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 475,
+      "output_tokens": 120,
+      "total_tokens": 595
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:55:17+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 546,
+      "output_tokens": 120,
+      "total_tokens": 666
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:55:49+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 546,
+      "output_tokens": 120,
+      "total_tokens": 666
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:56:15+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 553,
+      "output_tokens": 120,
+      "total_tokens": 673
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2120,
+    "output_tokens": 480,
+    "total_tokens": 2600
+  }
+}

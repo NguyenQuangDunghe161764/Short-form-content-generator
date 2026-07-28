@@ -1,0 +1,59 @@
+{
+  "topic": "Tướng người càng về già càng an nhàn thong dong không phải lo nghĩ tiền bạc",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:59:19+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 466,
+      "output_tokens": 120,
+      "total_tokens": 586
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:59:46+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 528,
+      "output_tokens": 120,
+      "total_tokens": 648
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T12:00:17+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 532,
+      "output_tokens": 120,
+      "total_tokens": 652
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T12:00:41+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 537,
+      "output_tokens": 120,
+      "total_tokens": 657
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2063,
+    "output_tokens": 480,
+    "total_tokens": 2543
+  }
+}

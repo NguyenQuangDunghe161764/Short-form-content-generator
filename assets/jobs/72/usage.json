@@ -1,0 +1,59 @@
+{
+  "topic": "Nhìn bộ vị này biết ngay người có số sống thọ bách niên hảo lão",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:52:34+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 464,
+      "output_tokens": 120,
+      "total_tokens": 584
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:53:01+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 526,
+      "output_tokens": 120,
+      "total_tokens": 646
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:53:24+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 535,
+      "output_tokens": 120,
+      "total_tokens": 655
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:53:51+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 532,
+      "output_tokens": 120,
+      "total_tokens": 652
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2057,
+    "output_tokens": 480,
+    "total_tokens": 2537
+  }
+}

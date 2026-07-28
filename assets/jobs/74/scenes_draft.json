@@ -1,0 +1,62 @@
+{
+  "topic": "Sở hữu nét tướng này bạn chính là ngôi sao may mắn mang phúc khí cho cả gia đình",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Phúc khí tụ nơi tâm, an lành lan tỏa",
+      "visual_concept": "Một ngôi nhà cổ Việt Nam ấm cúng vào buổi chiều tà, ánh nắng vàng chiếu qua khung cửa. Một người phụ nữ lớn tuổi, gương mặt phúc hậu, đang pha trà, nụ cười hiền từ. Xung quanh là bóng dáng các thành viên gia đình quây quần, tạo cảm giác an yên, hạnh phúc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/74/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Phúc khí khởi nguồn từ Tâm",
+      "description": "Phúc khí không phải là may mắn ngẫu nhiên, mà là năng lượng tích cực được vun đắp từ nội tâm. Đó là sự thiện lương, lòng bao dung và trí tuệ trong cách đối nhân xử thế. Một người có tâm an, ắt sẽ chiêu cảm điều lành.",
+      "tts": "Phúc khí... không phải may mắn ngẫu nhiên... mà là năng lượng tích cực vun đắp từ nội tâm. Đó là thiện lương, lòng bao dung và trí tuệ trong đối nhân xử thế... Khi tâm an định, ắt sẽ chiêu cảm điều lành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/74/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Dung mạo phản ánh nội tâm",
+      "description": "Vẻ ngoài của người mang phúc khí thường toát lên sự hiền hòa, đôi mắt sáng, nụ cười chân thành và thần thái ung dung. Đây không phải nét đẹp sắc sảo, mà là sự hài hòa, tĩnh tại – biểu hiện của một tâm hồn an nhiên, ít vướng bận.",
+      "tts": "Dung mạo người mang phúc khí... thường toát lên vẻ hiền hòa, đôi mắt sáng, nụ cười chân thành... thần thái ung dung. Đó là hài hòa, tĩnh tại... biểu hiện của một tâm hồn an nhiên, ít vướng bận.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/74/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "An gia, thịnh tộc từ một người",
+      "description": "Người mang phúc khí như ngọn hải đăng của gia đình, dẫn lối bằng sự thấu hiểu và lòng bao dung. Họ là điểm tựa tinh thần, là cầu nối yêu thương, giúp hóa giải mâu thuẫn, gắn kết các thành viên. Nơi nào có họ, nơi đó có sự bình an và thịnh vượng.",
+      "tts": "Người mang phúc khí... tựa ngọn hải đăng của gia đình... dẫn lối bằng thấu hiểu và lòng bao dung. Họ là điểm tựa tinh thần, cầu nối yêu thương... giúp gắn kết gia đình, mang lại bình an và thịnh vượng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/74/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bạn có phải là người mang phúc khí cho gia đình?",
+    "description": "Trong Nhân tướng học Việt Nam, phúc khí không chỉ là may mắn. Đó là sự hội tụ của nội tâm thiện lành, trí tuệ và cách sống tích cực, có khả năng lan tỏa an lành đến mọi người xung quanh, đặc biệt là gia đình. Cùng tìm hiểu xem những đặc điểm nào thường thấy ở người mang phúc khí nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#phuckhi",
+      "#giađình",
+      "#trietlysong",
+      "#huyenhoc"
+    ]
+  }
+}

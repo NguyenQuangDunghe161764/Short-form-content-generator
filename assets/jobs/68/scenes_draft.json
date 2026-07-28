@@ -1,0 +1,62 @@
+{
+  "topic": "Người có đặc điểm này về già cực kỳ có phúc được con cháu hiếu thảo báo đáp",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Phúc Đức Nằm Ở Đâu?",
+      "visual_concept": "Một cụ già tóc bạc, khuôn mặt phúc hậu, đang mỉm cười hiền từ nhìn về phía xa, xung quanh là khung cảnh thiên nhiên thanh bình, gợi sự an yên, mãn nguyện.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/68/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm Lành Gieo Phúc",
+      "description": "Nhân tướng học dạy rằng, tướng mạo phản ánh nội tâm. Một đời người hiền lương, sống thiện, thường có nét mặt phúc hậu, ánh mắt từ bi. Đây chính là nền tảng vững chắc cho một tuổi già an yên, hạnh phúc.",
+      "tts": "Nhân tướng học dạy rằng, tướng mạo phản ánh nội tâm... Một đời người sống hiền lương, gieo thiện lành, thường có nét mặt phúc hậu, ánh mắt từ bi... Đây là nền tảng vững chắc cho một tuổi già an yên, hạnh phúc.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/68/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Thần Thái An Nhiên",
+      "description": "Tuổi già có phúc thường biểu lộ qua thần thái an nhiên, tự tại. Khuôn mặt ít nếp nhăn do lo âu, ánh mắt vẫn giữ được sự trong trẻo, hiền hòa. Đây là phúc tướng của người biết buông bỏ, sống thuận tự nhiên.",
+      "tts": "Thần thái an nhiên, tự tại... thường là biểu hiện của một tuổi già có phúc... Khuôn mặt ít vướng bận lo âu, ánh mắt vẫn giữ được sự trong trẻo, hiền hòa... Đây là phúc tướng của người biết buông bỏ, sống thuận theo tự nhiên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/68/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Hái Quả Ngọt Tuổi Chiều",
+      "description": "Con cháu hiếu thảo, sum vầy là phúc lớn nhất của tuổi già. Đây không phải là ngẫu nhiên, mà là sự phản chiếu của lòng bao dung, sự quan tâm mà người lớn đã gieo trồng suốt cuộc đời. Phúc đức này được truyền đời, lan tỏa ấm áp.",
+      "tts": "Và rồi, con cháu hiếu thảo, sum vầy... chính là phúc lớn nhất của tuổi già... Điều này không phải ngẫu nhiên, mà là sự phản chiếu lòng bao dung, sự quan tâm mà người lớn đã gieo trồng... Phúc đức ấy, cứ thế mà truyền đời, lan tỏa ấm áp.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/68/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bí mật phúc tướng tuổi già: Con cháu hiếu thảo",
+    "description": "Bạn có bao giờ tự hỏi điều gì tạo nên một tuổi già an yên, hạnh phúc? Nhân tướng học tiết lộ những nét tướng của người có phúc, được con cháu hiếu thảo báo đáp. Khám phá ngay!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#phuctuong",
+      "#tuoigia",
+      "#hieuthuan",
+      "#trietlycuocsong"
+    ]
+  }
+}

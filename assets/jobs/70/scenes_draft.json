@@ -1,0 +1,62 @@
+{
+  "topic": "Vì sao người có nét tướng này đi đâu làm gì cũng được người xung quanh giúp đỡ",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Khi tâm sáng, đời ắt hanh thông",
+      "visual_concept": "Hình ảnh một người nở nụ cười hiền hậu, ánh mắt toát lên sự chân thành, xung quanh là những luồng sáng ấm áp tượng trưng cho sự hỗ trợ, sẻ chia một cách tinh tế và không quá rõ ràng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/70/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tướng tùy tâm sinh, phúc tùy duyên tạo",
+      "description": "Mỗi nét trên gương mặt hay dáng hình đều ít nhiều phản ánh tâm tính bên trong. Người có tướng được giúp đỡ thường mang một nguồn năng lượng dễ chịu, thu hút sự thiện cảm. Đó không phải là điều ngẫu nhiên, mà là sự tương tác tinh tế giữa con người với môi trường sống.",
+      "tts": "Tướng tùy tâm sinh, phúc tùy duyên tạo... Mỗi nét trên gương mặt... đều ít nhiều phản ánh tâm tính bên trong ta. Nguồn năng lượng dễ chịu, thu hút sự thiện cảm... chính là sự tương tác tinh tế giữa con người và môi trường sống.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/70/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét tướng hiền lành, tâm tính bao dung",
+      "description": "Những người này thường có ánh mắt trong sáng, nụ cười chân thật và cử chỉ ôn hòa. Họ không chỉ nhận mà còn biết cho đi, biết lắng nghe và thấu hiểu. Chính sự bao dung, thiện lương ấy đã gieo những hạt mầm tốt đẹp trong lòng người khác.",
+      "tts": "Người mang nét tướng hiền lành... thường có ánh mắt trong sáng, nụ cười chân thật. Họ không chỉ nhận, mà còn biết cho đi... lắng nghe, thấu hiểu. Chính sự bao dung, thiện lương ấy... đã gieo hạt mầm tốt đẹp trong lòng người.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/70/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Gieo thiện duyên, gặt phước lành",
+      "description": "Sự giúp đỡ từ người khác không phải là may mắn nhất thời, mà là quả ngọt của những nhân lành đã gieo. Khi ta sống chân thành, tử tế và luôn sẵn lòng giúp đỡ, vũ trụ sẽ đáp lại bằng những thiện duyên tương tự. Tướng tốt nhất là tướng của một tấm lòng thiện lương.",
+      "tts": "Sự giúp đỡ từ người khác... không phải may mắn nhất thời, mà là quả ngọt của nhân lành đã gieo. Khi ta sống chân thành, tử tế... vũ trụ sẽ đáp lại bằng thiện duyên tương tự. Tướng tốt nhất... chính là tấm lòng thiện lương.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/70/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Vì sao có người đi đâu cũng được quý mến, giúp đỡ?",
+    "description": "Có những nét tướng phản ánh tâm tính đặc biệt, khiến họ luôn nhận được sự hỗ trợ từ mọi người. Liệu đó có phải là may mắn? Hay là kết quả của những gì họ đã gieo trồng? Cùng Nhân Tướng VN tìm hiểu nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#trietlycuocsong",
+      "#hieunguoi",
+      "#phuocduc",
+      "#nhantuonghoc"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "topic": "Tướng người số may mắn hay gặp quý nhân xuất hiện đúng lúc nguy cấp",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:45:29+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 463,
+      "output_tokens": 120,
+      "total_tokens": 583
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:45:58+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 524,
+      "output_tokens": 120,
+      "total_tokens": 644
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:46:26+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 534,
+      "output_tokens": 120,
+      "total_tokens": 654
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:46:56+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 527,
+      "output_tokens": 120,
+      "total_tokens": 647
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2048,
+    "output_tokens": 480,
+    "total_tokens": 2528
+  }
+}

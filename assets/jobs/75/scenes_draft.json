@@ -1,0 +1,62 @@
+{
+  "topic": "Tướng người càng về già càng an nhàn thong dong không phải lo nghĩ tiền bạc",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Nét Bình Yên: Dáng Hài Lòng Tuổi Xế Chiều",
+      "visual_concept": "Một cụ ông/bà với nụ cười hiền hậu, ánh mắt an nhiên, ngồi đọc sách bên cửa sổ có nắng nhẹ, không gian thanh tịnh. Gợi cảm giác đủ đầy, không lo toan.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/75/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Dáng Hình Thể Hiện Hành Trình Tâm Hồn",
+      "description": "Khuôn mặt, thần thái của người lớn tuổi là tấm gương phản chiếu cả một đời người. Sự an nhàn tuổi già không chỉ đến từ vật chất, mà còn từ tâm thái bình an, từ những hạt mầm thiện lành đã gieo trồng.",
+      "tts": "Dáng hình và thần thái của người lớn tuổi, tựa như tấm gương... phản chiếu trọn vẹn hành trình tâm hồn. An nhàn tuổi già không chỉ đến từ vật chất, mà còn từ tâm thái bình an, từ những hạt mầm thiện lành đã gieo trồng.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/75/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Khí Chất An Nhiên: Dấu Ấn Thời Gian",
+      "description": "Trán rộng, cằm đầy, tai dày là những nét tướng thường được liên hệ với sự ổn định. Nhưng quan trọng hơn, thần thái toát lên sự điềm tĩnh, an yên mới là dấu hiệu rõ nhất của một đời người viên mãn, không lo toan.",
+      "tts": "Người xưa thường luận về trán rộng, cằm đầy, tai dày như nét tướng an ổn... Nhưng quan trọng hơn cả, chính là thần thái điềm tĩnh, an nhiên... mới là dấu hiệu của một đời người viên mãn, không lo toan.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/75/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Phúc Vị Chân Thực: An Lạc Từ Tâm",
+      "description": "Tiền bạc chỉ là một phần của sự an nhàn. An lạc đích thực tuổi già còn đến từ trí tuệ đã tích lũy, từ những mối quan hệ bền chặt và một tâm hồn không vướng bận. Khi tâm an, cuộc sống tự khắc nhẹ nhàng, đủ đầy.",
+      "tts": "Tiền bạc chỉ là một phần của sự an nhàn... Phúc vị chân thực tuổi già đến từ trí tuệ, những mối quan hệ bền chặt và một tâm hồn không vướng bận. Khi tâm an, cuộc sống tự khắc nhẹ nhàng, đủ đầy.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/75/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Dấu hiệu của cuộc sống an nhàn tuổi già trong Nhân tướng học",
+    "description": "Nhân tướng học không chỉ nhìn vào tài lộc mà còn cả phúc khí. Video này sẽ khám phá những nét tướng thường được cho là biểu hiện của một tuổi già an nhiên, không phải lo nghĩ nhiều về tiền bạc. Đây là sự tổng hòa của lối sống, tâm tính và trí tuệ được vun đắp qua năm tháng.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#tuongso",
+      "#huyenhoc",
+      "#trietly",
+      "#anlac"
+    ]
+  }
+}

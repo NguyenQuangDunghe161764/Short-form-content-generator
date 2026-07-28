@@ -1,0 +1,62 @@
+{
+  "topic": "Tướng người càng sống hướng thiện tâm tốt thì gương mặt càng đổi vận giàu sang",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Tâm Khởi Thiện, Tướng Ắt Đổi Thay",
+      "visual_concept": "Gương mặt một người với ánh sáng ấm áp, dịu dàng toát ra từ bên trong, như tâm hồn thanh tịnh đang chiếu rọi. Nền là hình ảnh tĩnh lặng của một ngôi chùa cổ hoặc vườn thiền, gợi sự bình yên, chiêm nghiệm.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/71/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm Thiện Nảy Sinh, Tướng Khắc Họa Nên",
+      "description": "Mỗi suy nghĩ, mỗi cảm xúc đều như nét bút vẽ lên gương mặt. Tâm hồn thanh tịnh, thiện lương sẽ dần gọt giũa đường nét, ánh mắt trở nên hiền hòa, nụ cười thêm rạng rỡ. Đó là sự phản chiếu chân thật nhất.",
+      "tts": "Mỗi suy nghĩ, mỗi cảm xúc trong ta... đều như nét bút khắc họa lên dung mạo... Tâm hồn thanh tịnh, thiện lương... sẽ khiến ánh mắt hiền hòa, nụ cười rạng rỡ... Đó là sự phản chiếu chân thật nhất.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/71/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét Tướng An Lành, Khí Vận Tương Sinh",
+      "description": "Khi tâm hồn hướng thiện, gương mặt toát lên vẻ từ bi, an nhiên. Điều này không chỉ giúp ta dễ gần, được mọi người quý mến mà còn mở ra những cơ hội mới. Phước lành đến từ sự tin tưởng, giúp đỡ và những mối nhân duyên tốt đẹp.",
+      "tts": "Khi nét tướng an lành... toát lên từ tâm hồn hướng thiện... ta không chỉ được quý mến... mà còn mở ra những cơ hội mới... Phước lành đến từ sự tin tưởng và nhân duyên tốt đẹp.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/71/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Gieo Mầm Thiện Lương, Gặt Hái Phước Duyên",
+      "description": "Nhân tướng học nhắc nhở ta rằng, tướng mạo không phải là định mệnh cố định. Bằng cách tu dưỡng tâm hồn, sống lương thiện và tích cực mỗi ngày, ta có thể chủ động thay đổi vận mệnh. Từ bi, hỷ xả chính là chìa khóa.",
+      "tts": "Tướng mạo không phải định mệnh cố định... Gieo mầm thiện lương, tu dưỡng tâm hồn mỗi ngày... chính là cách ta chủ động thay đổi vận mệnh... Từ bi, hỷ xả là chìa khóa gặt hái phước duyên.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/71/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Tâm tốt, tướng đổi: Bí mật của vận may!",
+    "description": "Bạn có tin rằng vẻ ngoài của chúng ta phản ánh tâm hồn bên trong? Nhân tướng học tiết lộ cách thiện tâm có thể dần định hình gương mặt, mang lại những điều tốt đẹp cho cuộc sống. Không phải mê tín, mà là quy luật của sự tương tác.",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#TamSinhTuong",
+      "#TrietLyCuocSong",
+      "#ThienTam",
+      "#PhuocDuyen"
+    ]
+  }
+}

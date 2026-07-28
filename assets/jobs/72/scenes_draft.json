@@ -1,0 +1,62 @@
+{
+  "topic": "Nhìn bộ vị này biết ngay người có số sống thọ bách niên hảo lão",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Trường Thọ: Dấu Ấn Của An Nhiên",
+      "visual_concept": "Một cụ già tóc bạc phơ, khuôn mặt phúc hậu, đang mỉm cười thanh thản khi ngồi thiền dưới tán cây cổ thụ, ánh nắng ban mai xuyên qua lá.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/72/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Thọ: Không Chỉ Là Năm Tháng",
+      "description": "Trong nhân tướng học, trường thọ không đơn thuần là đếm số năm. Đó là tổng hòa của sức khỏe dồi dào, tinh thần minh mẫn và cuộc sống an yên, có ý nghĩa. Một đời người trọn vẹn mới là điều đáng quý.",
+      "tts": "Trong nhân tướng học, trường thọ không đơn thuần là đếm số năm... mà là tổng hòa của sức khỏe dồi dào, tinh thần minh mẫn... và một cuộc sống an yên, có ý nghĩa. Một đời người trọn vẹn... mới thực sự là điều đáng quý.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/72/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Nét Tướng Hiện Sinh Khí",
+      "description": "Những bộ vị như tai dày, dái tai lớn, nhân trung sâu rõ thường được xem là dấu hiệu của sức khỏe tốt và năng lượng bền bỉ. Chúng gợi ý về một cơ thể được nuôi dưỡng tốt và khả năng vượt qua thử thách. Tuy nhiên, đây chỉ là những gợi mở ban đầu.",
+      "tts": "Để nhận diện sinh khí, người xưa thường quan sát tai dày, dái tai lớn, nhân trung sâu rõ... những nét tướng gợi ý sức khỏe tốt và năng lượng bền bỉ. Tuy nhiên, đó cũng chỉ là những gợi mở ban đầu mà thôi...",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/72/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Tâm An, Tướng Ắt Vượng",
+      "description": "Cuối cùng, tướng do tâm sinh. Sống lương thiện, giữ gìn sức khỏe, rèn luyện trí tuệ và giữ tâm thanh tịnh là nền tảng vững chắc nhất. Khi tâm an định, tướng diện tự nhiên sẽ toát lên vẻ trường thọ và phúc đức.",
+      "tts": "Cốt lõi vẫn là tướng do tâm sinh. Sống lương thiện, giữ gìn sức khỏe, rèn luyện trí tuệ, giữ tâm thanh tịnh... chính là nền tảng vững chắc nhất. Khi tâm an định... tướng diện tự nhiên sẽ toát lên vẻ trường thọ và phúc đức.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/72/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Bí mật của trường thọ trong Nhân tướng học",
+    "description": "Trường thọ không chỉ là sống lâu, mà là sống một đời an yên, khỏe mạnh và có ý nghĩa. Nhân tướng học hé lộ những dấu hiệu của sinh khí và sức sống, nhưng cốt lõi vẫn là tu dưỡng tâm tính và lối sống. Cùng khám phá nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#truongtho",
+      "#songkhoe",
+      "#trietlycuocsong",
+      "#fyp"
+    ]
+  }
+}

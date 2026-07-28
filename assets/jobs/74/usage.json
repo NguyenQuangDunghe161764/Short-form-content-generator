@@ -1,0 +1,59 @@
+{
+  "topic": "Sở hữu nét tướng này bạn chính là ngôi sao may mắn mang phúc khí cho cả gia đình",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:57:10+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 500,
+      "output_tokens": 120,
+      "total_tokens": 620
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:57:40+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 531,
+      "output_tokens": 120,
+      "total_tokens": 651
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:58:01+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 534,
+      "output_tokens": 120,
+      "total_tokens": 654
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T11:58:26+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 544,
+      "output_tokens": 120,
+      "total_tokens": 664
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2109,
+    "output_tokens": 480,
+    "total_tokens": 2589
+  }
+}
