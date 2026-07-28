@@ -1,0 +1,62 @@
+{
+  "topic": "Đặc điểm của người có số hưởng phúc lớn tích tụ từ nhiều đời nhiều kiếp",
+  "slides": [
+    {
+      "id": 1,
+      "role": "intro",
+      "title": "Phúc Lộc Vô Biên, Khởi Nguồn Từ Tâm",
+      "visual_concept": "Một dòng sông êm đềm chảy qua khu vườn cổ thụ xanh tốt, ánh nắng ban mai chiếu rọi, tượng trưng cho sự thịnh vượng và bình an tích tụ. Bóng dáng một người đang trầm tư ngắm cảnh, toát lên vẻ an nhiên, tự tại.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/76/images/intro.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 2,
+      "role": "content",
+      "content_index": 1,
+      "title": "Tâm An Định, Gió Đổi Chiều Cũng Vững",
+      "description": "Người có phúc sâu thường sở hữu nội tâm tĩnh lặng, ít bị ngoại cảnh lay động.\nHọ đối mặt với thử thách bằng sự điềm tĩnh, tựa như gốc cây cổ thụ vững chãi giữa bão giông.\nSự bình an nội tại ấy chính là nền tảng của mọi điều tốt lành, giúp họ vượt qua mọi sóng gió cuộc đời.\nĐây là một trong những dấu hiệu rõ nét nhất của phúc báu tích tụ.",
+      "tts": "Người có phúc sâu... thường mang nội tâm tĩnh lặng... ít bị ngoại cảnh lay động. Sự điềm tĩnh ấy... tựa gốc cây cổ thụ giữa bão giông... là nền tảng vững chắc cho mọi điều tốt lành.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/76/images/scene_1.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 3,
+      "role": "content",
+      "content_index": 2,
+      "title": "Ánh Sáng Trí Tuệ, Lòng Từ Bi Chiếu Rọi",
+      "description": "Họ thường có cái nhìn sâu sắc, thấu hiểu lẽ đời, và biết cách đối nhân xử thế khéo léo.\nLòng từ bi rộng lớn khiến họ luôn muốn giúp đỡ người khác mà không cầu báo đáp.\nChính những hành động thiện lương ấy tạo ra những mối nhân duyên tốt đẹp, thu hút sự hỗ trợ và may mắn.\nPhước lành thường đến từ việc gieo hạt thiện lành, mang lại giá trị cho cộng đồng.",
+      "tts": "Không chỉ vậy... ánh sáng trí tuệ giúp họ thấu hiểu lẽ đời... đối nhân xử thế khéo léo. Lòng từ bi thôi thúc họ giúp đỡ người khác vô điều kiện... tự khắc thu hút may mắn và nhân duyên tốt đẹp.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/76/images/scene_2.png",
+        "source": "chatgpt"
+      }
+    },
+    {
+      "id": 4,
+      "role": "content",
+      "content_index": 3,
+      "title": "Phúc Báo Không Tự Đến, Do Tâm Tạo Thành",
+      "description": "Nhân tướng học cho rằng, phước báu không phải là số phận định sẵn mà là kết quả của những hành vi, suy nghĩ thiện lương tích lũy qua nhiều đời.\nTướng do tâm sinh, phúc cũng từ tâm mà trưởng dưỡng, không ngừng được vun đắp.\nMỗi hành động thiện lành hôm nay là một hạt giống cho tương lai, tạo nên những quả ngọt sau này.\nViệc tu dưỡng tâm tính chính là con đường bền vững để tạo dựng phúc đức.",
+      "tts": "Nhân tướng học tin rằng... phước báu không phải số phận định sẵn... mà là kết quả của thiện lương tích lũy. Tướng do tâm sinh... phúc cũng từ tâm mà trưởng dưỡng. Mỗi hành động thiện lành hôm nay... gieo hạt giống cho quả ngọt ngày sau.",
+      "image": {
+        "path": "/home/runner/work/Short-form-content-generator/Short-form-content-generator/assets/jobs/76/images/scene_3.png",
+        "source": "chatgpt"
+      }
+    }
+  ],
+  "publish": {
+    "title": "Dấu hiệu của người có phúc lớn tích tụ từ nhiều đời?",
+    "description": "Có bao giờ bạn tự hỏi, những người luôn gặp may mắn, bình an trong cuộc sống có điều gì đặc biệt? Trong Nhân tướng học, phúc báu không chỉ là vận may mà còn là kết quả của sự tu tâm dưỡng tính, những hành động thiện lành được vun đắp qua nhiều kiếp. Cùng khám phá những đặc điểm của họ nhé!",
+    "hashtags": [
+      "#NhanTuongVN",
+      "#phucbao",
+      "#tamlinh",
+      "#trietlycuocsong",
+      "#fyp"
+    ]
+  }
+}

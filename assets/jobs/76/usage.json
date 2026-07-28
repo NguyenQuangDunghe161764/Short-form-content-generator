@@ -1,0 +1,59 @@
+{
+  "topic": "Đặc điểm của người có số hưởng phúc lớn tích tụ từ nhiều đời nhiều kiếp",
+  "images": [
+    {
+      "image": "intro.png",
+      "slide_id": 1,
+      "role": "intro",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T16:49:01+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 487,
+      "output_tokens": 120,
+      "total_tokens": 607
+    },
+    {
+      "image": "scene_1.png",
+      "slide_id": 2,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T16:49:25+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 575,
+      "output_tokens": 120,
+      "total_tokens": 695
+    },
+    {
+      "image": "scene_2.png",
+      "slide_id": 3,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T16:49:54+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 573,
+      "output_tokens": 120,
+      "total_tokens": 693
+    },
+    {
+      "image": "scene_3.png",
+      "slide_id": 4,
+      "role": "content",
+      "provider": "chatgpt",
+      "generated_at": "2026-07-28T16:50:23+00:00",
+      "model": "gpt-image-2",
+      "quality": "low",
+      "input_tokens": 583,
+      "output_tokens": 120,
+      "total_tokens": 703
+    }
+  ],
+  "totals": {
+    "images": 4,
+    "input_tokens": 2218,
+    "output_tokens": 480,
+    "total_tokens": 2698
+  }
+}
